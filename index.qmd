@@ -1,0 +1,48 @@
+---
+title: "Matt Fisher"
+subtitle: "What does he do? Does he do things?? Let's find out!"
+---
+
+# Intro
+
+_Introduce yourself and your path to your current role_
+
+
+---
+
+```{mermaid style="width: 100vw;" .foo}
+gantt
+  title My professional timeline
+  dateFormat YYYY-MM
+  axisFormat %Y
+
+  Section DFS
+    Discover Financial Services (DFS)         :done, dfs, 2008-06, 2016-04
+  
+  Section Volunteer
+    Open-source software developer            :active, oss, 2013-01, 2024-08
+    Conda Forge maintainer                    :active, condaforge, 2023-04, 2024-08
+  
+  Section NSIDC
+    Research Software Engineer                :active, nsidc, after dfs, 2024-08
+    QGreenland (TODO - Time?)                 :active, qgreenland, 2020-01, 2023-09 
+    NASA Openscapes Mentor                    :active, openscapes, 2023-09, 2024-08
+    Carpentries Instructor Certification      :milestone, carpentries, 2023-12, 1d
+```
+
+
+# A project
+
+_Describe a time when you collaboratively developed a software project involving
+multiple stakeholders (team and/or community)?_
+
+_What were the main takeaways from this experience?_
+
+
+# Open source
+
+_What does open source mean to you?_
+
+_What is your experience in usage and/or contribution in open source communities?_
+
+_Be as specific as possible. What roles have you played in open source projects and how have you contributed?_

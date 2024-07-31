@@ -1,0 +1,10 @@
+# Quarto
+*.html
+/_site/
+/.quarto/
+
+# pixi environments
+.pixi
+*.egg-info
+
+/.quarto/
