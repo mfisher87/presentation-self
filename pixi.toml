@@ -10,3 +10,4 @@ platforms = ["linux-64"]
 
 [dependencies]
 quarto = "=1.4.550"
+pre-commit = "*"
