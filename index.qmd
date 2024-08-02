@@ -283,3 +283,9 @@ federated data repository.
 # :tada: Bonus slides
 
 ## _earthaccess_
+
+
+## Bugs reported in the course of creating this slide deck
+
+* https://github.com/quarto-dev/quarto-cli/issues/10450
+* https://github.com/quarto-dev/quarto-cli/issues/10455
