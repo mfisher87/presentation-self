@@ -1,48 +1,285 @@
 ---
 title: "Matt Fisher"
-subtitle: "What does he do? Does he do things?? Let's find out!"
+subtitle: "💫 What does he do? Does he do things?? Let's find out! 💫"
+format:
+  revealjs:
+    auto-stretch: false
 ---
 
 # Intro
 
-_Introduce yourself and your path to your current role_
+:::{.notes}
+Who am I? And my path to my current role.
+:::
 
 
----
+## Who am I?
 
-```{mermaid style="width: 100vw;" .foo}
+
+:brain: Neurodivergent
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+:thought_balloon: ["Systems (over)thinker"](https://cutlefish.substack.com/p/20-things-ive-learned-as-a-systems)
+
+:screwdriver: Tinkerer & hobby collector
+
+:dog: Plant and animal lover
+
+:fire: Surrounded by wildfires right now
+
+
+:::{.notes}
+Who am I? What defines me and how I engage with the world? What is alive in me
+right now?
+
+**Neurodivergent** - different than "neurodiverse", meaning "we all think
+differently", "neurodivergent" means I face unique challenges navigating a
+world that is built for people who think very differently than me.
+
+**Systems thinker** - Show me the incentives, I'll show you the outcomes.
+
+**Tinkering & hobbies** - ...
+
+**Plants and animals** - 
+
+:::
+
+
+## :footprints: Path to my current role {.smaller}
+
+<!-- TODO: Mermaid's click functionality is not functioning in this context,
+even though it works in the live editor.
+See: <https://github.com/quarto-dev/quarto-cli/issues/10450>
+-->
+
+```{mermaid}
+%%{init:{'securityLevel':'loose'}}%%
 gantt
-  title My professional timeline
   dateFormat YYYY-MM
   axisFormat %Y
 
   Section DFS
-    Discover Financial Services (DFS)         :done, dfs, 2008-06, 2016-04
+    Software Engineer                         :done, dfs, 2008-06, 2012-06
+    Senior Software Engineer                  :done, dfs-senior, 2012-06, 2016-04
   
   Section Volunteer
     Open-source software developer            :active, oss, 2013-01, 2024-08
     Conda Forge maintainer                    :active, condaforge, 2023-04, 2024-08
   
   Section NSIDC
-    Research Software Engineer                :active, nsidc, after dfs, 2024-08
-    QGreenland (TODO - Time?)                 :active, qgreenland, 2020-01, 2023-09 
+    Research Software Engineer                :active, nsidc, after dfs-senior, 2024-08
+    QGreenland                                :done, qgreenland, 2020-01, 2023-09 
     NASA Openscapes Mentor                    :active, openscapes, 2023-09, 2024-08
     Carpentries Instructor Certification      :milestone, carpentries, 2023-12, 1d
+    QGreenland-Net                            :active, qgreenland-net, 2024-05, 2024-08 
+
+  click condaforge href "https://conda-forge.org"
+  click nsidc href "https://nsidc.org"
+  click qgreenland href "https://qgreenland.org/"
+  click openscapes href "https://nasa-openscapes.github.io/"
+  click carpentries href "https://carpentries.org/instructors/"
+  click qgreenland-net href "https://qgreenland-net.github.io/"
 ```
 
+_NOTE: Some dates are best effort_
 
-# A project
 
-_Describe a time when you collaboratively developed a software project involving
-multiple stakeholders (team and/or community)?_
+:::{.notes}
+This is what happened to bring me to my current official job duties.
 
-_What were the main takeaways from this experience?_
+Some of the timing is best effort.
+:::
+
+
+## :footprints: Path to my professional identity {.smaller}
+
+```{mermaid}
+gantt
+  dateFormat YYYY-MM
+  axisFormat %Y
+
+  Section DFS
+    Senior Software Engineer                  :done, dfs-senior, 2008-06, 2016-04
+    Readability is paramount                  :milestone, readability, 2010-01, 1d
+    Interesting problems aren't enough for me :milestone, readability, 2014-01, 1d
+  
+  Section Volunteer
+    Open-source software developer            :active, oss, 2013-12, 2024-08
+    
+  
+  Section NSIDC
+    Research Software Engineer                :active, nsidc, after dfs, 2024-08
+    FAIR & CARE principles                    :milestone, faircare, 2018-01, 1d
+    I love teaching!                          :milestone, teaching, 2019-01, 1d
+    Overcompensate for tone                   :milestone, tone, 2020-03, 1d
+    "Deep quality" & Diátaxis                 :milestone, diataxis, 2020-06, 1d
+    Universal (inclusive) design              :milestone, inclusive, 2023-04, 1d
+```
+
+_NOTE: Some dates are best effort_
+
+
+:::{.notes}
+This is what happened to bring me to my current professional identity - what I
+specialize in and the values that guide my actions. I of course learned plenty
+of other lessons along the way, but these ones shaped who I am today as an open
+source research software engineer.
+
+Some of the timing is best effort.
+
+_TODO: break the below out into slides_
+
+**Readability is paramount** - Working with a lead who dogmatically used
+single-letter variable names and jargon.
+
+**Interesting problems aren't enough for me** - At first, I was fairly
+satisfied working in the finance world on large distributed systems solving
+problems with "big data". Over time, I realized that I wanted to do work that
+helped people in some way.
+
+**"Deep quality"** - ...
+:::
+
+
+# A project: QGreeenland
+
+---
+
+![](https://qgreenland.org/sites/default/files/2023-08/QGreenland_updates_2023.jpg){fig-align="center" .r-stretch}
+
+:::{.notes}
+QGreenland is a Greenland-focused interdiscplinary science data environment for
+the QGIS open-source geospatial visualization and analysis software. Our data
+ranges from ice sheet thickness and concentration to protected wildlife areas
+to 
+
+It's strongly inspired by Quantarctica, a similar project focused on
+Antarctica. The advancement we made with QGreenland was producing open source
+software to transform the data and build the QGIS project instead of creating
+the project by hand. 
+:::
+
+
+---
+
+![_"In Greenland, people are often asking, 'how can we **find the data that foreign scientists bring back from Greenland**?' Now we can directly utilize much of it."_ Source: [Dr. Vinton Valentine](https://mailchi.mp/78d1e0b2bf1d/qgreenland-quarterly-newsletter-january-9255803)](https://mcusercontent.com/152741e4ecbce5f73547f5fe3/images/a852b48e-f559-4631-3147-3960ac87c4f1.jpg)
+
+:::{.notes}
+This piece of user feedback always makes me smile!
+:::
+
+---
+
+![QGreenland on [the Greenlandic news program _Qanarooq_](https://www.youtube.com/watch?v=9zhNjsVSHYQ&t=776s)](/assets/qgreenland-in-the-news.png)
+
+
+:::{.notes}
+We made it on to the Greenlandic news. I just think this is super cool, and I'm super proud of it.
+:::
+
+---
+
+![An automatic translation of an interview from the same news program](/assets/qgreenland-bag-of-money.png)
+
+:::{.notes}
+I don't know what happened with this translation, but I would have appreciated
+receiving money in a bag!
+:::
+
+
+## Stakeholders: Team
+
+![](/assets/qgreenland-team.png){fig-align="center"}
+
+:::{.notes}
+That's me in the top-left with my wonderful unofficial therapy dog, Ricky.
+
+Trey and I wrote QGreenland's source code with Twila's leadership. Alyse and
+Casey produced amazing educational materials and advised Trey and myself in
+leading our first workshop as part of the QGreenland project.
+:::
+
+
+---
+
+![QGreenland team in Greenland](/assets/qgreenland-team-in-greenland.jpg){.r-stretch}
+
+
+:::{.notes}
+I didn't make it on this trip, unfortunately, but I wanted to share a
+real-world picture of our team having fun!
+:::
+
+
+---
+
+![Art found in Greenland](/assets/greenland-art.jpg){.r-stretch}
+
+:::{.notes}
+This is just some fun art the team found in Greenland. On the right-hand-side,
+Greenland's iconic colorful structures are represented against its white
+landscape.
+:::
+
+
+## Stakeholders: Editorial board
+
+![](/assets/qgreenland-editorial-board.png){fig-align="center" .r-stretch}
+
+:::{.notes}
+Our domain experts. They know their data; some EB members personally authored
+datasets present in QGreenland. They help us to ensure the data we are
+representing in QGreenland is accurate, and help us to curate datasets that are
+useful to our audiences, and useful together.
+:::
+
+
+## Stakeholders: Community
+
+!["Climate Elvis" in Greenland](/assets/climate-elvis.jpg)
+
+:::{.notes}
+Our community includes the cryosphere research community (pictured here is
+"Climate Elvis", please Google him!) as well as people living in Greenland.
+:::
+
+
+## Stakeholders: Learners
+
+![Learners at a QGreenland workshop](/assets/qgreenland-workshop.jpg)
+
+
+## 2023 QGreenland Researcher Workshop
+
+...
+
+
+## Main takeaways
+
+...
+
+
+## QGreenland-Net
+
+[Follow-up NSF award](https://qgreenland-net.github.io/).
+
+Moving the data transformation component of QGreenland to a community-owned
+system of recipes for cloud data transformation and publishing to the DataONE
+federated data repository.
 
 
 # Open source
 
-_What does open source mean to you?_
+---
 
-_What is your experience in usage and/or contribution in open source communities?_
+### _What does open source mean to you?_
 
-_Be as specific as possible. What roles have you played in open source projects and how have you contributed?_
+### _What is your experience in usage and/or contribution in open source communities?_
+
+### _Be as specific as possible. What roles have you played in open source projects and how have you contributed?_
+
+
+
+# :tada: Bonus slides
+
+## _earthaccess_

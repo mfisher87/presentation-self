@@ -9,4 +9,4 @@ platforms = ["linux-64"]
 [tasks]
 
 [dependencies]
-quarto = ">=1.4.550,<2,!=1.5.557"
+quarto = "=1.4.550"

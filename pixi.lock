@@ -13,8 +13,8 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/linux-64/esbuild-0.19.2-ha770c72_0.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/libgcc-ng-14.1.0-h77fa898_0.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/libgomp-14.1.0-h77fa898_0.conda
-      - conda: https://conda.anaconda.org/conda-forge/linux-64/pandoc-3.1.12.3-ha770c72_0.conda
-      - conda: https://conda.anaconda.org/conda-forge/linux-64/quarto-1.4.557-ha770c72_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/linux-64/pandoc-3.1.11.1-ha770c72_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/linux-64/quarto-1.4.550-ha770c72_1.conda
 packages:
 - kind: conda
   name: _libgcc_mutex
@@ -133,31 +133,32 @@ packages:
   timestamp: 1719538796073
 - kind: conda
   name: pandoc
-  version: 3.1.12.3
+  version: 3.1.11.1
   build: ha770c72_0
   subdir: linux-64
-  url: https://conda.anaconda.org/conda-forge/linux-64/pandoc-3.1.12.3-ha770c72_0.conda
-  sha256: 26bfcda675fbddd059a8861dc75b9e497980ec6c679ec2a27e7d74042c4b295b
-  md5: cdea66892b19a454f939487318b6c517
+  url: https://conda.anaconda.org/conda-forge/linux-64/pandoc-3.1.11.1-ha770c72_0.conda
+  sha256: 30b1318dbf7a89d4b2f66a9b10c8799376a32506043a510e1d27ba286c564633
+  md5: 0e2f14aff42adf4675bcd5335d644a5f
   license: GPL-2.0-or-later
   license_family: GPL
-  size: 21002590
-  timestamp: 1710766932698
+  size: 20502973
+  timestamp: 1707474170203
 - kind: conda
   name: quarto
-  version: 1.4.557
-  build: ha770c72_0
+  version: 1.4.550
+  build: ha770c72_1
+  build_number: 1
   subdir: linux-64
-  url: https://conda.anaconda.org/conda-forge/linux-64/quarto-1.4.557-ha770c72_0.conda
-  sha256: 0e05614ea54597ffd96111907d96b23c49eb7d0695ae1875c431655d98a65ecd
-  md5: 564f00d6feca800e6f1ecffd8ca21ea0
+  url: https://conda.anaconda.org/conda-forge/linux-64/quarto-1.4.550-ha770c72_1.conda
+  sha256: 2fd62d66eb6a08b95ba8933aaff7a0e3241c7ced93b5114a3b1e8d28ee24b330
+  md5: b7b89be76bcdab239f7956e5fc2727ab
   depends:
   - dart-sass
   - deno >=1.37.2,<1.37.3.0a0
   - deno-dom >=0.1.35,<0.1.36.0a0
   - esbuild
-  - pandoc >=3.1.12.3,<3.1.13.0a0
+  - pandoc >=3.1.11.1,<3.1.12.0a0
   license: GPL-2.0-or-later
   license_family: GPL
-  size: 15177349
-  timestamp: 1721146183562
+  size: 15312136
+  timestamp: 1708104283642
