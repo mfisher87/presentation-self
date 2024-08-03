@@ -40,7 +40,7 @@ world that is built for people who think very differently than me.
 
 **Tinkering & hobbies** - ...
 
-**Plants and animals** - 
+**Plants and animals** -
 
 :::
 
@@ -54,31 +54,33 @@ See: <https://github.com/quarto-dev/quarto-cli/issues/10450>
 
 ```{mermaid}
 %%{init:{'securityLevel':'loose'}}%%
+%% NOTE: Prefix `pfx-` is used to workaround a bug:
+%%       https://github.com/quarto-dev/quarto-cli/issues/10455
 gantt
   dateFormat YYYY-MM
   axisFormat %Y
 
   Section DFS
-    Software Engineer                         :done, dfs, 2008-06, 2012-06
-    Senior Software Engineer                  :done, dfs-senior, 2012-06, 2016-04
-  
-  Section Volunteer
-    Open-source software developer            :active, oss, 2013-01, 2024-08
-    Conda Forge maintainer                    :active, condaforge, 2023-04, 2024-08
-  
-  Section NSIDC
-    Research Software Engineer                :active, nsidc, after dfs-senior, 2024-08
-    QGreenland                                :done, qgreenland, 2020-01, 2023-09 
-    NASA Openscapes Mentor                    :active, openscapes, 2023-09, 2024-08
-    Carpentries Instructor Certification      :milestone, carpentries, 2023-12, 1d
-    QGreenland-Net                            :active, qgreenland-net, 2024-05, 2024-08 
+    Software Engineer                         :done, pfx-dfs, 2008-06, 2012-06
+    Senior Software Engineer                  :done, pfx-dfs-senior, 2012-06, 2016-04
 
-  click condaforge href "https://conda-forge.org"
-  click nsidc href "https://nsidc.org"
-  click qgreenland href "https://qgreenland.org/"
-  click openscapes href "https://nasa-openscapes.github.io/"
-  click carpentries href "https://carpentries.org/instructors/"
-  click qgreenland-net href "https://qgreenland-net.github.io/"
+  Section Volunteer
+    Open-source software developer            :active, pfx-oss, 2013-01, 2024-08
+    Conda Forge maintainer                    :active, pfx-condaforge, 2023-04, 2024-08
+
+  Section NSIDC
+    Research Software Engineer                :active, pfx-nsidc, after pfx-dfs-senior, 2024-08
+    QGreenland                                :done, pfx-qgreenland, 2020-01, 2023-09
+    NASA Openscapes Mentor                    :active, pfx-openscapes, 2023-09, 2024-08
+    Carpentries Instructor Certification      :milestone, pfx-carpentries, 2023-12, 1d
+    QGreenland-Net                            :active, pfx-qgreenland-net, 2024-05, 2024-08
+
+  click pfx-condaforge href "https://conda-forge.org"
+  click pfx-nsidc href "https://nsidc.org"
+  click pfx-qgreenland href "https://qgreenland.org/"
+  click pfx-openscapes href "https://nasa-openscapes.github.io/"
+  click pfx-carpentries href "https://carpentries.org/instructors/"
+  click pfx-qgreenland-net href "https://qgreenland-net.github.io/"
 ```
 
 _NOTE: Some dates are best effort_
@@ -94,26 +96,28 @@ Some of the timing is best effort.
 ## :footprints: Path to my professional identity {.smaller}
 
 ```{mermaid}
+%% NOTE: Prefix `pfx-` is used to workaround a bug:
+%%       https://github.com/quarto-dev/quarto-cli/issues/10455
 gantt
   dateFormat YYYY-MM
   axisFormat %Y
 
   Section DFS
-    Senior Software Engineer                  :done, dfs-senior, 2008-06, 2016-04
-    Readability is paramount                  :milestone, readability, 2010-01, 1d
-    Interesting problems aren't enough for me :milestone, readability, 2014-01, 1d
-  
+    Senior Software Engineer                  :done, pfx-dfs, 2008-06, 2016-04
+    Readability is paramount                  :milestone, pfx-readability, 2010-01, 1d
+    Interesting problems aren't enough for me :milestone, pfx-impact, 2014-01, 1d
+
   Section Volunteer
-    Open-source software developer            :active, oss, 2013-12, 2024-08
-    
-  
+    Open-source software developer            :active, pfx-oss, 2013-12, 2024-08
+
+
   Section NSIDC
-    Research Software Engineer                :active, nsidc, after dfs, 2024-08
-    FAIR & CARE principles                    :milestone, faircare, 2018-01, 1d
-    I love teaching!                          :milestone, teaching, 2019-01, 1d
-    Overcompensate for tone                   :milestone, tone, 2020-03, 1d
-    "Deep quality" & Diátaxis                 :milestone, diataxis, 2020-06, 1d
-    Universal (inclusive) design              :milestone, inclusive, 2023-04, 1d
+    Research Software Engineer                :active, pfx-nsidc, after pfx-dfs, 2024-08
+    FAIR & CARE principles                    :milestone, pfx-faircare, 2018-01, 1d
+    I love teaching!                          :milestone, pfx-teaching, 2019-01, 1d
+    Overcompensate for tone                   :milestone, pfx-tone, 2020-03, 1d
+    "Deep quality" & Diátaxis                 :milestone, pfx-diataxis, 2020-06, 1d
+    Universal (inclusive) design              :milestone, pfx-inclusive, 2023-04, 1d
 ```
 
 _NOTE: Some dates are best effort_
@@ -121,9 +125,9 @@ _NOTE: Some dates are best effort_
 
 :::{.notes}
 This is what happened to bring me to my current professional identity - what I
-specialize in and the values that guide my actions. I of course learned plenty
-of other lessons along the way, but these ones shaped who I am today as an open
-source research software engineer.
+specialize in and the values that guide my actions. I learned plenty of other
+lessons along the way, but these ones shaped who I am today as an open source
+research software engineer.
 
 Some of the timing is best effort.
 
@@ -151,12 +155,12 @@ helped people in some way.
 QGreenland is a Greenland-focused interdiscplinary science data environment for
 the QGIS open-source geospatial visualization and analysis software. Our data
 ranges from ice sheet thickness and concentration to protected wildlife areas
-to 
+to
 
 It's strongly inspired by Quantarctica, a similar project focused on
 Antarctica. The advancement we made with QGreenland was producing open source
 software to transform the data and build the QGIS project instead of creating
-the project by hand. 
+the project by hand.
 :::
 
 
@@ -174,7 +178,7 @@ This piece of user feedback always makes me smile!
 
 
 :::{.notes}
-We made it on to the Greenlandic news. I just think this is super cool, and I'm super proud of it.
+We made it on to the Greenlandic news. I think this is super cool, and I'm super proud of it.
 :::
 
 ---
@@ -216,8 +220,8 @@ real-world picture of our team having fun!
 ![Art found in Greenland](/assets/greenland-art.jpg){.r-stretch}
 
 :::{.notes}
-This is just some fun art the team found in Greenland. On the right-hand-side,
-Greenland's iconic colorful structures are represented against its white
+This is some fun art the team found in Greenland. On the right-hand-side,
+Greenland's iconic colorful structures are represented against its snowy
 landscape.
 :::
 
@@ -240,6 +244,7 @@ useful to our audiences, and useful together.
 
 :::{.notes}
 Our community includes the cryosphere research community (pictured here is
+<!--alex ignore her-him -->
 "Climate Elvis", please Google him!) as well as people living in Greenland.
 :::
 
