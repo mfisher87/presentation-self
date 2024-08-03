@@ -12,37 +12,61 @@ format:
 Who am I? And my path to my current role.
 :::
 
-
 ## Who am I?
 
 
-:brain: Neurodivergent
+:artificial_satellite: :earth_africa: :thermometer: :world_map: :technologist: Earth science software person
+
+:thought_balloon: Neurodivergent
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-:thought_balloon: ["Systems (over)thinker"](https://cutlefish.substack.com/p/20-things-ive-learned-as-a-systems)
+:abacus: :bar_chart: ["Systems (over)thinker"](https://cutlefish.substack.com/p/20-things-ive-learned-as-a-systems)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+:speaking_head: May overcommunicate when excited [(please interrupt)]{style="font-size: 0.6em"}
 
 :screwdriver: Tinkerer & hobby collector
 
-:dog: Plant and animal lover
+:hugs: [Inclusiveness champion](https://www.youtube.com/watch?v=rzi-qkl8u5M)
 
-:fire: Surrounded by wildfires right now
+:dog: :seedling: Plant and animal lover
+
+:notes: :control_knobs: Music lover & maker
+
+:fire: :mask: Surrounded by wildfires right now!
 
 
 :::{.notes}
 Who am I? What defines me and how I engage with the world? What is alive in me
 right now?
 
+I'm an Earth science software person, but you already know that!
+
 **Neurodivergent** - different than "neurodiverse", meaning "we all think
 differently", "neurodivergent" means I face unique challenges navigating a
-world that is built for people who think very differently than me.
+world that is built for people who think very differently than me. I have
+social anxiety, so I may come across as nervous in this presentation. Also, I
+may overcommunicate when I'm excited about a topic! I've been talking some
+co-workers' ears off about a new tool I'm trying, called Pixi, that I feel will
+make researchers' lives easier. I'm doing it right now!
 
-**Systems thinker** - Show me the incentives, I'll show you the outcomes.
+**Systems thinker** - I'm very focused on systems and incentives. TODO: More about this.
 
-**Tinkering & hobbies** - ...
+I like to repair things and modify things. I have a lot of hobbies. I like
+learning new things!
 
-**Plants and animals** -
+I taught a cohort of researchers about psychological safety this year, and that talk is recorded on YouTube and linked on this slide.
 
+_Read off the rest of the things from the slide._
+
+It's wildfire season where I live. We've had at least a week of smoke. I'd
+really like to learn more about mapping wildfires!
 :::
+
+
+## Hobbies, animals, plants, more
+
+_TODO: Photo collage_
 
 
 ## :footprints: Path to my current role {.smaller}
@@ -88,8 +112,6 @@ _NOTE: Some dates are best effort_
 
 :::{.notes}
 This is what happened to bring me to my current official job duties.
-
-Some of the timing is best effort.
 :::
 
 
@@ -129,8 +151,6 @@ specialize in and the values that guide my actions. I learned plenty of other
 lessons along the way, but these ones shaped who I am today as an open source
 research software engineer.
 
-Some of the timing is best effort.
-
 _TODO: break the below out into slides_
 
 **Readability is paramount** - Working with a lead who dogmatically used
@@ -146,6 +166,10 @@ helped people in some way.
 
 
 # A project: QGreeenland
+
+:::{.notes}
+I have two projects I'd love to talk about in this context, _QGreenland_ and _earthaccess_. See bonus slides for a bit about _earthaccess_!
+:::
 
 ---
 
@@ -290,7 +314,7 @@ federated data repository.
 ## _earthaccess_
 
 
-## Bugs reported in the course of creating this slide deck
+## :bug: Bugs reported in the course of creating this slide deck
 
 * <https://github.com/quarto-dev/quarto-cli/issues/10450>
 * <https://github.com/quarto-dev/quarto-cli/issues/10455>
