@@ -1,0 +1,7 @@
+/* Display a QR code on the title slide */
+h1.title {
+  background-image: url(/assets/qr-web.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: 140px, 140px;
+}

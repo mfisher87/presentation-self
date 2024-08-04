@@ -9,11 +9,3 @@ website:
   title: "Presentation: Self"
   repo-url: &repo-url "https://github.com/mfisher87/presentation-self"
   repo-actions: ["edit", "issue"]
-
-
-format:
-  revealjs:
-    theme: "white"
-    footer: "[Home](/)"
-    slide-number: true
-    from: "markdown+emoji"

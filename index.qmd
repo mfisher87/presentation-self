@@ -3,14 +3,22 @@ title: "Matt Fisher"
 subtitle: "💫 What does he do? Does he do things?? Let's find out! 💫"
 format:
   revealjs:
+    theme: "white"
+    footer: "[Home](/) | [Source](https://github.com/mfisher87/presentation-self)"
     auto-stretch: false
+    slide-number: true
+    from: "markdown+emoji"
+css: "style.css"
 ---
 
 # Intro
 
 :::{.notes}
-Who am I? And my path to my current role.
+_IMPORTANT: Share link to slides!_
+
+I'd like to tell you a little about who I am and my path to my current role!
 :::
+
 
 ## Who am I?
 
@@ -736,6 +744,23 @@ already on my "deep quality" slide.
 
 
 # :tada: Bonus slides
+
+## QR codes
+
+::::::{.columns}
+:::{.column width=50%}
+![<https://mfisher87.github.io/presentation-self>](/assets/qr-web.png){fig-align="center"}
+:::
+:::{.column width=50%}
+![<https://github.com/mfisher87/presentation-self>](/assets/qr-source.png){fig-align="center"}
+:::
+::::::
+
+
+## My profile site
+
+![<https://mfisher87.github.io/>](/assets/qr-homepage.png)
+
 
 ## :bug: Bugs reported in the course of creating this slide deck
 

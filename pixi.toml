@@ -15,5 +15,8 @@ pre-commit = "*"
 [feature.viscm.dependencies]
 viscm = "*"
 
+[feature.qrcode.dependencies]
+segno = "*"
+
 [environments]
-viscm = {features = ["viscm"], no-default-feature = true}
+dev = {features = ["viscm", "qrcode"]}
