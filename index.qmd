@@ -25,6 +25,8 @@ I'd like to tell you a little about who I am and my path to my current role!
 
 :artificial_satellite: :earth_africa: :thermometer: :world_map: :technologist: Earth science software person
 
+. . .
+
 :thought_balloon: Neurodivergent
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -36,41 +38,45 @@ I'd like to tell you a little about who I am and my path to my current role!
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 :hugs: [Inclusiveness champion](https://www.youtube.com/watch?v=rzi-qkl8u5M)
 
+. . .
+
+:heart_eyes: I love plants, animals, and music!
+
 :screwdriver: Tinkerer & hobby collector
 
-:dog: :seedling: Plant and animal lover
-
-:notes: :control_knobs: Music lover & maker
+. . .
 
 :fire: :mask: Surrounded by wildfires right now!
 
 
 :::{.notes}
-Who am I? What defines me and how I engage with the world? What is alive in me
-right now?
-
 I'm an Earth science software person, but you already know that!
 
+_NEXT_
+
 <!-- alex ignore add -->
-**Neurodivergent** - different than "neurodiverse", meaning "we all think
-differently", "neurodivergent" means I face unique challenges navigating a
-world that is built for people who think very differently than me. Living with
-autism and ADHD, I sometimes miss implicit social cues, overcommunicate when
-I'm excited, or subtle jokes fly over my head. I may also come across as
-nervous in this presentation - I overprepare to compensate, so I'm reading a
-lot of notes.
+I'm **neurodivergent** - different than "neurodiverse", meaning "we all think
+differently". "Neurodivergent" means I face unique challenges navigating a
+world that is built for people whose brains work very differently than mine.
+Living with autism and ADHD, I sometimes miss implicit social cues,
+overcommunicate when I'm excited, and sometimes jokes fly over my head.  I may
+also come across as nervous in this presentation - I overprepare to compensate,
+so I'm reading a lot of notes.
 
 **Systems thinker** - I'm very interested in systems, incentives, and culture.
 
-Because I'm a bit different, I'm big on inclusiveness. I taught a cohort of
-researchers about psychological safety this year, and that talk is recorded on
-YouTube and linked on this slide.
+Because I'm a bit different, I'm big on inclusiveness. This year I taught a cohort of
+researchers about psychological safety, and that's recorded on YouTube and
+linked on this slide.
+
+_NEXT_
 
 I love to repair things and modify things, and keep things out of the landfill.
 I have a lot of hobbies. I love learning new things!
 
-<!-- alex ignore fire -->
-_Read off the rest of the things from the slide, except the fire one._
+I love plants, animals, and music!
+
+_NEXT_
 
 It's wildfire season where I live. We've had at least a week of smoke. I'd
 really like to learn more about mapping wildfires!
@@ -83,16 +89,18 @@ really like to learn more about mapping wildfires!
 
 :::{.notes}
 <!-- alex ignore amateur -->
-Here's a fun photo collage of some things that are important to me. My
-partner is here, my amazing dogs Ricky and Waffles are here, my marigolds, some
-dill and garlic we harvested, a flute I made from PVC pipe, my basement music
-studio, some homemade microphone cables, my basement computing cluster,
-and some other fun stuff. I struggle with collecting, or maybe _hoarding_
-hobbies.
+Here's a fun photo collage of some things that are important to me.
+
+My partner is here, our amazing dogs Ricky and Waffles are here, our marigolds,
+some dill and garlic we harvested, a flute I made from PVC pipe, my basement
+music studio, my homemade microphone cables, my basement computing cluster, and
+some other fun stuff.
+
+I struggle with collecting, or maybe _hoarding_, hobbies.
 :::
 
 
-## :footprints: Path to my current role {.smaller}
+## :footprints: Path to my current position {.smaller}
 
 <!-- TODO: Mermaid's click functionality is not functioning in this context,
 even though it works in the live editor.
@@ -117,6 +125,7 @@ gantt
 
   Section NSIDC
     Research Software Engineer                :active, pfx-nsidc, after pfx-dfs-senior, 2024-08
+    NSIDC data ordering system (dates?)       :done, pfx-hermes, 2017-01, 2018-01
     QGreenland                                :done, pfx-qgreenland, 2020-01, 2023-09
     NASA Openscapes Mentor                    :active, pfx-openscapes, 2023-09, 2024-08
     Carpentries Instructor Certification      :milestone, pfx-carpentries, 2023-12, 1d
@@ -134,19 +143,17 @@ _NOTE: Some dates are best effort_
 
 
 :::{.notes}
-This is what happened to bring me to my current official job duties.
-
 I started off in the finance world, and though I was a long-time open source
-user and advocate, I didn't begin contributing to the open source world until
+user and "believer", I didn't begin contributing to the open source world until
 2013. I didn't have the most welcoming experience, but we'll get in to that
 soon!
 
 In 2016, I made a career change in to research software engineering, and I've
 been at NSIDC since then.
 
-There's a lot of other stuff on here, but I don't want to get too detailed. I
-do want to mention the NASA Openscapes Mentor program. I've been a NASA
-Openscapes Mentor since 2023, and through that program I got certified as a
+At NSIDC I've been in a new role of "NASA Openscapes Mentor" since 2023, which
+is a program to mentor researchers in adapting to open science and cloud
+programming practices, and through that program I got certified as a
 Carpentries instructor. If you're not familiar with The Carpentries, it's a
 program for teaching researchers the foundational coding and data science
 skills they need. This has given me best practices and tools to effectively run
@@ -165,12 +172,12 @@ gantt
 
   Section DFS
     Senior Software Engineer                  :done, pfx-dfs, 2008-06, 2016-04
-    Readability is paramount                  :milestone, pfx-readability, 2010-01, 1d
+    The importance of readability             :milestone, pfx-readability, 2010-01, 1d
     Interesting problems aren't enough for me :milestone, pfx-impact, 2012-06, 1d
 
   Section Volunteer
     Open-source software developer            :active, pfx-oss, 2013-12, 2024-08
-    Welcomingness is critical                 :milestone, pfx-welcoming, 2013-12, 1d
+    The importance of welcomingness           :milestone, pfx-welcoming, 2013-12, 1d
     Overcompensate for tone                   :milestone, pfx-tone, 2017-08, 1d
 
 
@@ -189,45 +196,44 @@ gantt
 
 _NOTE: Some dates are best effort_
 
-
 :::{.notes}
-This is what happened to bring me to my current professional identity - what I
-specialize in and the values that guide my actions. I learned plenty of other
-lessons along the way, but these ones shaped who I am today. I'd like to spend
-a little more time on this concept, but don't worry, we're not going to dwell
-too long on this slide.
+As I was making the graph on the last slide, it was getting huge and
+overwhelming, so I split it in to two graphs. This one is about things I
+learned along the way that shaped my interests and guide my decisions!
 
-At Discover, I was working with a lead who dogmatically used single-letter
-variable names and jargon, missing opportunities to teach colleagues reading
-their code. From this, I learned that _readability is paramount_. Code is read
-many times more than it is written.
+In my very early career, I worked with a technical lead who dogmatically used
+single-letter variable names and a lot of jargon, which created artificial
+barriers for learning and getting work done. From this, I learned that
+_readability is paramount_. Code is read many times more than it is written.
 
-At first, I was fairly satisfied working in the finance world on large
-distributed systems solving problems with "big data". Over time, I realized
-that _interesting problems aren't enough for me_ - I wanted to do work that
-helped people in some way.
+At first, I was satisfied working on interesting "big data" and distributed
+systems problems in the finance world. Over time, I realized that _interesting
+problems aren't enough for me_ - I wanted to do work that helped people in some
+way.
 
-I got interested in contributing to open source projects at this point, and my
-first contribution was to a Yahoo project called "YQL" for querying stock
-prices. [My first pull request](https://github.com/yql/yql-tables/pull/405) was
-merged the same day without interaction. This wasn't an inspiring start for me,
-but I kept trying and learned how _good_ open source can feel. And I learned
-that _welcomingness is critical_.
-
-Again, there's a lot more on this slide, and I'm going to focus on what's most
-meaningful and unique to me. It was a hard choice, but I'm going to skip FAIR &
-CARE principles.
+I got interested in contributing to open source projects at this point and
+learned the importance of welcomingness.
 :::
 
 
-## [Overcommunicate & overcompensate for tone](https://ben.balter.com/2014/11/06/rules-of-communicating-at-github/)
+## The importance of welcomingness
 
-* Write for people who have the minimum possible context
+![My first pull request](/assets/first-pr.png)
 
-. . .
+:::{.notes}
+[My first pull request was against a Yahoo project](https://github.com/yql/yql-tables/pull/405)
+and was merged quickly but without any interaction. I was excited to learn or
+get some feedback from a professional open source software engineer! This
+wasn't an inspiring start for me, but I kept trying and learned how _good_ open
+source can feel.
+:::
 
-* Text communication lacks body language & vocal tone
-  * Emojis can help!
+
+## [Overcompensate for tone](https://ben.balter.com/2014/11/06/rules-of-communicating-at-github/)
+
+Text communication lacks body language & vocal tone
+
+Emojis can help!
 
 . . .
 
@@ -238,18 +244,11 @@ CARE principles.
 </center>
 
 :::{.notes}
-This is a place where I can leverage my tendency to overcommunicate to
-effectively communicate with larger groups, for example a software development
-team that might not all be working on similar things at the same time. I often
-communicate with excessive context and complete, functioning examples, and you
-can find that in my history of GitHub issues!
-
 <!-- alex ignore easy -->
-I feel emojis are a key part of communicating professionally in a remote-work
-world. We all implicitly understand the value of body language and tone, and I
+We all implicitly understand the value of body language and tone, and I
 think it's easy to underestimate the potential for miscommunication when those
 things aren't present. We can communicate better through text if we make our
-tone explicit, and pictures are great for that!
+tone more explicit, and pictures are great for that!
 
 _NEXT_
 
@@ -261,15 +260,15 @@ are great.
 ## More?
 
 :::{.notes}
-There's more to my professional journey, but I'll get in to that later in the
-context of a project.
+There's much more to my professional learning journey, but I'll come back to that in
+the context of a project.
 :::
 
 
 # A project: QGreeenland
 
 :::{.notes}
-I have two projects I'd love to talk about in this context, _QGreenland_ and _earthaccess_. See bonus slides for a bit about _earthaccess_!
+QGreenland!
 :::
 
 ---
@@ -277,16 +276,20 @@ I have two projects I'd love to talk about in this context, _QGreenland_ and _ea
 ![](https://qgreenland.org/sites/default/files/2023-08/QGreenland_updates_2023.jpg){fig-align="center" .r-stretch}
 
 :::{.notes}
-QGreenland is a Greenland-focused interdiscplinary science data environment for
-the QGIS open-source geospatial visualization and analysis software. Our data
-ranges from ice sheet thickness to protected wildlife areas to undersea
-features. It's built to work offline to support field work and accessibility to
-data explorers.
+QGreenland is an offline-first Greenland-focused data environment for QGIS.
 
-It's strongly inspired by Quantarctica, a similar project focused on
-Antarctica. The advancement we made with QGreenland was producing open source
-software to transform the data and build the QGIS project instead of creating
-the project by hand.
+The provided data ranges from ice sheet thickness to protected wildlife areas
+to undersea features. It's built to work offline to support field work and
+accessibility to data explorers.
+
+It's inspired by Quantarctica, a similar project focused on Antarctica. The
+advancement we made with QGreenland was producing open source software to
+transform the data and build the QGIS project instead of doing those steps by
+hand.
+
+We're currently working on a follow-up grant (see bonus slides) to make more
+data viewable online and move to a Conda Forge inspired model for data
+transformation.
 :::
 
 
@@ -295,7 +298,10 @@ the project by hand.
 ![_"In Greenland, people are often asking, 'how can we **find the data that foreign scientists bring back from Greenland**?' Now we can directly utilize much of it."_ Source: [Dr. Vinton Valentine](https://mailchi.mp/78d1e0b2bf1d/qgreenland-quarterly-newsletter-january-9255803)](https://mcusercontent.com/152741e4ecbce5f73547f5fe3/images/a852b48e-f559-4631-3147-3960ac87c4f1.jpg)
 
 :::{.notes}
-This piece of user feedback always makes me smile!
+This piece of user feedback is exactly the kind of impact I wanted to make when
+I left the finance industry: _Read the quote_.
+
+I'm going to start moving fast through some picture slides now!
 :::
 
 ---
@@ -304,7 +310,7 @@ This piece of user feedback always makes me smile!
 
 
 :::{.notes}
-We made it on to the Greenlandic news. I think this is super cool, and I'm super proud of it.
+I think it's super cool that QGreenland was on to the Greenlandic news.
 :::
 
 ---
@@ -312,8 +318,8 @@ We made it on to the Greenlandic news. I think this is super cool, and I'm super
 ![An automatic translation of an interview from the same news program](/assets/qgreenland-bag-of-money.png)
 
 :::{.notes}
-I don't know what happened with this translation, but I would have appreciated
-receiving money in a bag!
+From the same news program. Something happened with the translation. I think I
+would have enjoyed receiving money in a bag!
 :::
 
 
@@ -326,7 +332,7 @@ That's me in the top-left with my wonderful unofficial therapy dog, Ricky.
 
 Trey and I wrote QGreenland's source code with Twila's leadership. Alyse and
 Casey produced amazing educational materials and advised Trey and myself in
-leading our first workshop as part of the QGreenland project.
+leading our first workshop.
 :::
 
 
@@ -336,8 +342,8 @@ leading our first workshop as part of the QGreenland project.
 
 
 :::{.notes}
-I didn't make it on this trip, unfortunately, but I wanted to share a
-real-world picture of our team having fun!
+I didn't make it on this trip, unfortunately, but here's our team having fun in
+Greenland!
 :::
 
 
@@ -346,9 +352,9 @@ real-world picture of our team having fun!
 ![Art found in Greenland](/assets/greenland-art.jpg){.r-stretch}
 
 :::{.notes}
-This is some fun art the team found in Greenland. On the right-hand-side,
-Greenland's iconic colorful structures are represented against its snowy
-landscape.
+This is some fun art the team found in Greenland.
+
+_Wait 5 seconds_
 :::
 
 
@@ -359,11 +365,8 @@ landscape.
 :::{.notes}
 Our domain experts. They know their data; some EB members personally authored
 datasets present in QGreenland. They help us to ensure the data we are
-representing in QGreenland is accurate, and help us to curate datasets that are
-useful to our audiences, and useful together.
-
-Trey, Twila, and I would meet virtually and communicate by e-mail and GitHub
-issues with the Editorial Board as they provided valuable input to our work.
+representing is accurate, and help us to curate datasets that are useful to our
+audiences, and useful together.
 :::
 
 
@@ -372,10 +375,10 @@ issues with the Editorial Board as they provided valuable input to our work.
 !["Climate Elvis" in Greenland](/assets/climate-elvis.jpg)
 
 :::{.notes}
-Our community includes the cryosphere research community (pictured here is
 <!--alex ignore her-him -->
-"Climate Elvis", please Google him!), people living in Greenland, curious
-members of the public, and earth science researchers.
+Our community includes people living in Greenland and members of the public in
+general, educators, and earth science researchers. Pictured here is a Jet
+Propulsion Lab researcher who goes by "Climate Elvis", please Google him!
 :::
 
 
@@ -389,8 +392,8 @@ and researchers.
 
 We held workshops for our learners and trained educators to create a pathway
 into our community. A researcher workshop we held in 2023 was the first
-workshop which I had a leadership role in developing (alongside my amazing
-colleague, [Trey Stafford](https://github.com/trey-stafford)).
+workshop which I had a leadership role in developing, alongside my amazing
+colleague Trey.
 :::
 
 
@@ -421,6 +424,7 @@ We were invited to write a guest post on the Jupyter Blog, which was credited
 with inspiring further work to build an integrated QGIS user experience.
 
 I'm very proud of this work, as it's been credited for inspiring additional
+advancements in JupyterHub GIS functionality.
 :::
 
 
@@ -438,18 +442,15 @@ I'm very proud of this work, as it's been credited for inspiring additional
 ### :hole: ["Deep quality"](https://diataxis.fr/quality/) & [Diátaxis](https://diataxis.fr/)
 
 :::{.notes}
-It's hard for me to select a small number. I learned much more, but these stand
-out the most.
-
 I realized that I like to teach. I especially enjoy teaching researchers to use
 Git & GitHub!
 
 I also realized the importance of inclusive language. Subtle language cues can
 make a task more intimidating or discouraging than it has to be. I use an
-automated inclusive language checker called "Alex" for lots of stuff, including
-this presentation.
+automated inclusive language checker called "Alex" for this, including on this
+presentation.
 
-The remaining two get their own slides.
+The remaining two have their own slides.
 :::
 
 
@@ -462,10 +463,10 @@ The remaining two get their own slides.
 I only recently first saw this illustration, but it's taken up permanent
 residency in my brain and helps me make more inclusive design decisions. Many
 take curb-cuts for granted in the U.S. They're ubiquitous because they're
-required by the Americans with Disabilities Act, and we all benefit from them.
+required by the Americans with Disabilities Act, and we all benefit from them,
+as highlighted in orange.
 
-In our workshop we taught our learners a little about inclusive design using
-colormaps.
+In our workshop we taught our learners about inclusive design using colormaps.
 :::
 
 ---
@@ -476,33 +477,24 @@ colormaps.
 
 :::{.notes}
 There's a history in the sciences of using a notoriously inaccessible colormap
-called "rainbow".
-
-In 2017, the Matplotlib team made waves by changing their default colormap from
-"rainbow" to "viridis", an accessible colormap which was developed by UC
-Berkeley faculty members Stéfan van der Walt and Nathaniel J. Smith. They
-developed software to build and analyze such colormaps called `viscm`.
-
-The visualizations on this slide were produced by `viscm`. They show how this
-change to default to an accessible colormap provides benefits for all.
+called "rainbow". In 2017, "viridis" superseded it at Matplotlib's default
+thanks to work by Berkeley faculty Stéfan van der Walt and Nathaniel Smith.
 
 _CONTROL-CLICK the "jet" visualization_
 
 <!-- alex ignore color -->
-The "rainbow" colormap produces false features and can cover up real features
-because it is not perceptually uniform. The visualizations at the bottom of
-this group, and the black-and-white visualization, show how this impacts people
-with color vision deficiencies even more then people with perfect vision.
+We can see how the top colormap is especially inaccessible to people with color
+vision deficiency. Even for folks with full color vision, the gradient is
+inconsistent and introduces false features and hides true features.
 
 _CONTROL-CLICK the "viridis" visualization_
 
-"viridis" more accurately represents the data for all because it was designed
-for all. That's inclusive design!
+"viridis" more accurately represents data for all because it was designed for
+all. That's inclusive design!
 
-I'm proud to say that the reason I could create these visualizations for this
-presentation today is because I was inspired by Nathaniel and Stéfan's work to
-take on a maintainer role of the `viscm` project in 2023 and through that role
-I restored it from a broken state!
+Thanks to Stéfan's welcomingness, I'm currently a maintainer of the software,
+called "viscm", that was used to develop this new generation of accessible
+colormaps. In 2023, I successfully revitalized and modernized it.
 :::
 
 
@@ -522,19 +514,6 @@ Diataxis provided me with a mental framework for me to start writing
 software and documentation with "deep quality" in mind, and reinforced the
 importance of "deep quality" for me. While Diataxis is a documentation
 framework, it's changed how I think about quality in general.
-:::
-
-
-## QGreenland-Net
-
-[Follow-up NSF award](https://qgreenland-net.github.io/) :tada: :cloud:
-
-:::{.notes}
-<!-- alex ignore executed -->
-We applied for and received an award to build on this work, in collaboration
-with Arctic Data Center (ADC), by generalizing QGreenland's data transformation
-component into a system of community-owned data transformation recipes which
-are executed in the cloud, taking inspiration from Conda Forge.
 :::
 
 
@@ -670,9 +649,7 @@ everyone.
 <!-- alex ignore special -->
 On the left is the official documentation for how to access NASA Earth science
 data, which is behind a login system called "Earthdata Login". There are _a
-lot_ of things happening here. The user must define a class which adds special
-behavior to a Python HTTP client library. Notice the comment at the end:
-"handle errors here". There's still more to do!
+lot_ of things happening here, and the example isn't even complete.
 
 On the right, we're doing exactly three things. Logging in, searching for data
 (the code on the left side doesn't do that; it requires the user to know the
@@ -687,7 +664,7 @@ URL of a data file), and then downloading data with authentication.
 
 . . .
 
-:hugs: Community manager & [hackathon facilitator](https://earthaccess.readthedocs.io/en/latest/contributing/our-meet-ups/)
+:hugs: Welcomer, thanker, community manager, & [hackathon facilitator](https://earthaccess.readthedocs.io/en/latest/contributing/our-meet-ups/)
 
 . . .
 
@@ -702,11 +679,13 @@ learning some new roles.
 In _earthaccess_, in addition to being a core contributor, I work to improve
 on a common problem: an open-source software project which stops responding to
 community needs when funding for core contributors runs out. We've built a team
-of maintainers from many organizations, both related and unrelated to NASA,
-both private sector and public sector, and begun discussions about long-term
-independent governance.
+of maintainers both related and unrelated to NASA, from private sector and
+public sector, and begun discussions about long-term independent governance.
 
 _NEXT_
+
+I also have a strong community role; I want our contributors to have the kind
+of experience I would want.
 
 I'm a facilitator for _earthaccess_' bi-weekly hackathons. Through this event
 and by creating a welcoming environment, I've personally brought on several new
@@ -725,23 +704,31 @@ governance model.
 
 :sparkles: Maintainer & modernizer
 
-:package: Packaging maintainer
+:package: Packager
 
 :scroll: Documenter
+
+:gear: Automator
 
 
 :::{.notes}
 I mentioned earlier my role maintaining and modernizing `viscm`.
 
-Conda Forge is a community-driven system for enabling software to be installed
-with `conda`. I'm a maintainer of several Conda Forge package recipes (called
-feedstocks), including Quarto (used to produce this presentation), `viscm`,
-pangeo-forge-runner, _earthaccess_, bump-my-version, coloraide, and more.
+I'm a maintainer of several Conda Forge package recipes (called feedstocks),
+including Quarto (used to produce this presentation), `viscm`, _earthaccess_,
+and at least three others.
 
-I really like writing documentation! We talked about documentation a bit
-already on my "deep quality" slide.
+I also really like writing documentation and automating things!
 :::
 
+
+# :heart: Thank you
+
+:::{.notes}
+I hope I've answered all the questions from the prompt!
+
+Any questions I can answer?
+:::
 
 # :tada: Bonus slides
 
@@ -755,6 +742,52 @@ already on my "deep quality" slide.
 ![<https://github.com/mfisher87/presentation-self>](/assets/qr-source.png){fig-align="center"}
 :::
 ::::::
+
+
+## Why not `nbconvert <...> --to slides <...>`?
+
+I :heart_eyes: the Git & Markdown user experience!
+
+
+## FAIR & CARE
+
+![FAIR & CARE Principles logo](https://images.squarespace-cdn.com/content/v1/5d3799de845604000199cd24/1567592451970-2R8XFL670QNMAGDRV7ED/Be+FAIR+and+CARE.png?format=2500w)
+
+[A module I taught on FAIR & CARE in 2023](https://qgreenland-workshop-2023-researcher.github.io/content/materials.html#review-open-science-and-data-principles)
+
+:::{.notes}
+CARE principles can sometimes conflict with openness, e.g. should the mating
+locations for poached species be made public?
+
+_NOTE: I don't think I can fit this._
+:::
+
+
+## QGreenland-Net
+
+[Follow-up NSF award](https://qgreenland-net.github.io/) :tada: :cloud:
+
+:::{.notes}
+<!-- alex ignore executed -->
+We applied for and received an award to build on this work, in collaboration
+with Arctic Data Center (ADC), by generalizing QGreenland's data transformation
+component into a system of community-owned data transformation recipes which
+are executed in the cloud, taking inspiration from Conda Forge.
+:::
+
+
+## Overcommunicate
+
+Write for people who have the least possible context
+
+[Create complete examples](https://github.com/mfisher87?tab=repositories&q=sscce&type=&language=&sort=)
+
+:::{.notes}
+I learned that I can leverage my tendency to overcommunicate to effectively
+communicate asynchronously. I often communicate with excessive context and
+complete, functioning examples, and you can find that in my history of GitHub
+issues and repositories!
+:::
 
 
 ## My profile site
