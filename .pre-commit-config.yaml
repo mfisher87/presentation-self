@@ -34,3 +34,9 @@ repos:
     rev: "v11.0.1"  # Use the sha / tag you prefer
     hooks:
     - id: "alex"
+      exclude: |
+        (?x)^(
+            pixi.lock|
+            pixi.toml|
+            .pre-commit-config.yaml
+        )$

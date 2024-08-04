@@ -11,3 +11,9 @@ platforms = ["linux-64"]
 [dependencies]
 quarto = "=1.4.550"
 pre-commit = "*"
+
+[feature.viscm.dependencies]
+viscm = "*"
+
+[environments]
+viscm = {features = ["viscm"], no-default-feature = true}
