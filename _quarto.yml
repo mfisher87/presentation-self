@@ -13,7 +13,7 @@ website:
 
 format:
   revealjs:
-    theme: "simple"
+    theme: "white"
     footer: "[Home](/)"
     slide-number: true
     from: "markdown+emoji"
