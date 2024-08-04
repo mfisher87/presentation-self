@@ -71,19 +71,16 @@ really like to learn more about mapping wildfires!
 
 ---
 
-_TODO: Photo collage_
+![A photo collage of things that are important to me](/assets/collage.jpg){fig-align="center" .r-stretch}
 
 :::{.notes}
 <!-- alex ignore amateur -->
 Here's a fun photo collage of some things that are important to me. My
-partner is here, my amazing dogs are here, my garden, and some fun hobby
-projects. I carved flutes out of PVC pipe, built my own microphone cables,
-operate a small computing cluster in my basement, play several instruments at
-an amateur level (I suppose you could say I'm in a couple of "bands", but it's
-different groups of friends that jam together), and some other fun stuff. I
-struggle with collecting, or maybe _hoarding_ hobbies.
-
-Hit me up on GitHub or something if you want to do a hobby project together!
+partner is here, my amazing dogs Ricky and Waffles are here, my marigolds, some
+dill and garlic we harvested, a flute I made from PVC pipe, my basement music
+studio, some homemade microphone cables, my basement computing cluster,
+and some other fun stuff. I struggle with collecting, or maybe _hoarding_
+hobbies.
 :::
 
 
