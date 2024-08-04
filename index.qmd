@@ -675,11 +675,11 @@ URL of a data file), and then downloading data with authentication.
 
 . . .
 
-:question: Community manager & [hackathon facilitator](https://earthaccess.readthedocs.io/en/latest/contributing/our-meet-ups/)
+:hugs: Community manager & [hackathon facilitator](https://earthaccess.readthedocs.io/en/latest/contributing/our-meet-ups/)
 
 . . .
 
-:money: [Funding proposer](https://github.com/nsidc/earthaccess-proposal-2024-nasa-roses)
+:money_with_wings: [Funding proposer](https://github.com/nsidc/earthaccess-proposal-2024-nasa-roses)
 
 
 :::{.notes}
@@ -713,9 +713,9 @@ governance model.
 
 :sparkles: Maintainer & modernizer
 
-:box: Packaging maintainer
+:package: Packaging maintainer
 
-:document: Documenter
+:scroll: Documenter
 
 
 :::{.notes}
