@@ -439,9 +439,10 @@ out the most.
 I realized that I like to teach. I especially enjoy teaching researchers to use
 Git & GitHub!
 
-I also realized the importance of inclusive language. I use an automated
-inclusive language checker called "Alex" for lots of stuff, including this
-presentation.
+I also realized the importance of inclusive language. Subtle language cues can
+make a task more intimidating or discouraging than it has to be. I use an
+automated inclusive language checker called "Alex" for lots of stuff, including
+this presentation.
 
 The remaining two get their own slides.
 :::
@@ -551,6 +552,12 @@ People can get what they want by (kindly) making a wish
 . . .
 
 The best part is connecting with people
+
+:::{.notes}
+This is such a big question! I hope you don't mind that my answer is a bit cheesy.
+
+_NEXT_
+:::
 
 
 ## [_earthaccess_](https://earthaccess.readthedocs.io/) {.smaller}
