@@ -563,8 +563,8 @@ files = earthaccess.download(
 Most recently, I've grown in to an open-source **community builder** on an
 influential community-owned project called _earthaccess_.
 
-It's a community-owned Python library built for researchers who want to get to
-the core of their research, and makes data more accessible for everyone.
+It's a Python library built for researchers who want to get to the core of
+their research, and makes data more accessible for everyone.
 
 <!-- alex ignore special -->
 On the left is the official documentation for how to access NASA Earth science
