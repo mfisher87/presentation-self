@@ -100,7 +100,7 @@ I struggle with collecting, or maybe _hoarding_, hobbies.
 :::
 
 
-## :footprints: Path to my current position {.smaller}
+## :footprints: My career path {.smaller}
 
 <!-- TODO: Mermaid's click functionality is not functioning in this context,
 even though it works in the live editor.
@@ -154,110 +154,16 @@ instructor. If you're not familiar with _The Carpentries_, it's a program for
 teaching researchers the foundational coding and data science skills they need.
 This has given me best practices and tools to effectively run workshops and do
 one-on-one teaching.
-:::
 
-
-## :footprints: Path to my professional identity {.smaller}
-
-```{mermaid}
-%% NOTE: Prefix `pfx-` is used to workaround a bug:
-%%       https://github.com/quarto-dev/quarto-cli/issues/10455
-gantt
-  dateFormat YYYY-MM
-  axisFormat %Y
-
-  Section Discover
-    Senior Software Engineer                          :done, pfx-dfs, 2008-06, 2016-04
-    The importance of readability                     :milestone, pfx-readability, 2010-01, 1d
-
-  Section Volunteer
-    Open-source software developer                    :active, pfx-oss, 2013-12, 2024-08
-    The importance of welcomingness                   :milestone, pfx-welcoming, 2013-12, 1d
-    Overcompensate for tone                           :milestone, pfx-tone, 2017-08, 1d
-
-
-  Section NSIDC
-    Research Software Engineer                        :active, pfx-nsidc, after pfx-dfs, 2024-08
-    FAIR & CARE data responsibility principles        :milestone, pfx-faircare, 2018-01, 1d
-    I love teaching!                                  :milestone, pfx-teaching, 2019-01, 1d
-    "Deep quality" & Diátaxis                         :milestone, pfx-diataxis, 2020-06, 1d
-    Universal (inclusive) design & inclusive language :milestone, pfx-inclusive-design, 2023-04, 1d
-
-
-  click pfx-diataxis href "https://www.diataxis.fr/"
-  click pfx-inclusive-design href "https://alexjs.com/"
-```
-
-_NOTE: Some dates are best effort_
-
-:::{.notes}
-As I was making the graph on the last slide, it was getting huge and
-overwhelming, so I split it in to two graphs. This one is about things I
-learned along the way that shaped my interests and guide my decisions!
-
-In my very early career, I worked with a technical lead who dogmatically used
-single-letter variable names and a lot of jargon, which created artificial
-barriers for learning and getting work done. From this, I learned that
-_readability is paramount_. Code is read many times more than it is written.
-
-I got interested in contributing to open source projects at this point and
-learned the importance of welcomingness.
-:::
-
-
-## The importance of welcomingness
-
-![My first pull request](/assets/first-pr.png)
-
-:::{.notes}
-[My first pull request was against a Yahoo project](https://github.com/yql/yql-tables/pull/405)
-and was merged quickly but without any interaction. I was excited to learn or
-get some feedback from a professional open source software engineer! This
-wasn't an inspiring start for me, but I kept trying and learned how _good_ open
-source can feel.
-:::
-
-
-## [Overcompensate for tone](https://ben.balter.com/2014/11/06/rules-of-communicating-at-github/)
-
-Text communication lacks body language & vocal tone
-
-Emojis can help!
-
-. . .
-
-<center>
-:pinching_hand::sunglasses:
-
-:pinching_hand::dark_sunglasses::raised_eyebrow:
-</center>
-
-:::{.notes}
-<!-- alex ignore easy -->
-We all implicitly understand the value of body language and tone, and I
-think it's easy to underestimate the potential for miscommunication when those
-things aren't present. We can communicate better through text if we make our
-tone more explicit, and pictures are great for that!
-
-_NEXT_
-
-I doubt it's surprising at this point in the presentation that I think emojis
-are great.
-:::
-
-
-## More?
-
-:::{.notes}
-There's much more to my professional learning journey, but I'll come back to that in
-the context of a project.
+I'll talk more about my professional learning journey in the context of a
+project.
 :::
 
 
 # :greenland: A project: [QGreenland](https://qgreenland.org)
 
 :::{.notes}
-QGreenland!
+QGreenland was one of the most personally transformative projects in my career!
 :::
 
 ---
@@ -272,13 +178,8 @@ Our data ranges from ice sheet thickness to protected wildlife areas to
 undersea features. It's built to work offline to support field work and
 accessibility to data explorers.
 
-It's inspired by Quantarctica, a similar project focused on Antarctica. The
-advancement we made with QGreenland was producing open source software to
-transform the data and build the QGIS project instead of doing those steps by
-hand.
-
 We're currently working on a follow-up grant (see bonus slides) to make more
-data viewable online and move to a Conda Forge inspired community-driven model
+data browsable online and adopt a Conda Forge inspired community-driven model
 for data transformation.
 :::
 
@@ -290,7 +191,7 @@ for data transformation.
 :::{.notes}
 This piece of user feedback is exactly the kind of impact I wanted to make when
 I left the finance industry: our work is helping to improve equitable access to
-data!
+science data!
 :::
 
 ---
@@ -299,7 +200,7 @@ data!
 
 
 :::{.notes}
-I think it's super cool that QGreenland was on the Greenlandic news.
+QGreenland was on the Greenlandic news, and I think that's really cool.
 :::
 
 
@@ -308,7 +209,7 @@ I think it's super cool that QGreenland was on the Greenlandic news.
 ![](/assets/qgreenland-team.png){fig-align="center"}
 
 :::{.notes}
-That's me in the top-left with my wonderful unofficial therapy dog, Ricky.
+That's me in the top-left.
 
 Trey Stafford and I wrote QGreenland's source code. However, our community is much
 larger than our team!
@@ -330,8 +231,8 @@ visualize our data.
 !["Climate Elvis" in Greenland](/assets/climate-elvis.jpg)
 
 :::{.notes}
-Our community includes people living in Greenland and members of the public in
-general, educators, and earth science researchers.
+Our community includes people living in Greenland and members of the public
+in general, educators, and earth science researchers.
 
 <!--alex ignore her-him -->
 Pictured here is a Jet Propulsion Lab researcher who goes by "Climate Elvis"
@@ -407,16 +308,25 @@ integrated QGIS user experience!
 
 ## :brain: Main takeaways from QGreenland
 
+:::{.fragment}
 ### :heart: I love teaching!
 
 #### :speaking_head: Inclusive language is especially important for teaching
 
 <!-- alex ignore of-course -->
 ~~"just"~~, ~~"simply"~~, ~~"easy"~~, ~~"of course"~~
+:::
+<br />
 
+:::{.fragment}
 ### :open_hands: I really care about inclusive design
+:::
+<br />
 
-### :hole: ["Deep quality"](https://diataxis.fr/quality/) & [Diátaxis](https://diataxis.fr/)
+:::{.fragment}
+<!-- alex ignore nuts -->
+### :scroll: A mental model for quality in documentation and more
+:::
 
 :::{.notes}
 I realized that I like to teach. I especially enjoy teaching researchers to
@@ -429,7 +339,13 @@ presentation.
 
 _NEXT_
 
-The remaining two have their own slides.
+I learned that inclusive design is really important to me.
+
+_NEXT_
+
+<!-- alex ignore nuts -->
+And I learned a new mental model for quality that I can apply to documentation
+and general design.
 :::
 
 
@@ -477,49 +393,80 @@ colormaps. In 2023, I successfully revitalized and modernized it.
 :::
 
 
-## ["Deep quality"](https://diataxis.fr/quality/) & [Diátaxis](https://diataxis.fr/)
+<!-- alex ignore nuts -->
+## A mental model for quality
 
-* Functional quality: Measurable, objective
-* Deep quality: Subjective, requires functional quality
+* Functional quality: _"Is it correct?" "Is it complete?"_
+* ["Deep quality"](https://diataxis.fr/quality/): _"Does it meet human needs?"
+  "Does it feel good?" "How much energy does it take to use?"_
+
+. . .
+
+A framework for documentation: [Diátaxis](https://diataxis.fr/)
 
 :::{.notes}
-Functional quality includes things like "is it correct?" and "is it complete?"
+Functional quality includes things like "is it correct?" and "is it complete?".
+It's measurable and objective.
 
 "Deep quality" refers to subjective experience: "does it meet human needs?",
 "does it feel good?", and "how much of my energy does it take to use?"
 
+_NEXT_
+
 <!-- alex ignore nuts -->
 Diataxis provided me with a mental framework for me to start writing
-software and documentation with "deep quality" in mind, and reinforced the
-importance of "deep quality" for me. While Diataxis is a documentation
-framework, it's changed how I think about quality in general.
+software and documentation with "deep quality" in mind.
 :::
 
 
 # Open source
 
-## What does open source mean to me?
+:::{.notes}
+Now I'll talk about my journey as an open source software developer.
+:::
 
-. . .
+## My first Pull Request (PR)
 
-[:magic_wand: Magic]{style="font-size: 1.5em"}
-
-. . .
-
-People who know the needed thing (sometimes me!) can appear out of nowhere
-
-. . .
-
-People can get what they want by (kindly) making a wish
-
-. . .
-
-The best part is connecting with people
+![[My first pull request](https://github.com/yql/yql-tables/pull/405)](/assets/first-pr.png)
 
 :::{.notes}
-This is such a big question! I hope you don't mind that my answer is a bit cheesy.
+My first pull request was against a Yahoo project and was merged quickly but
+without any interaction. I was excited to learn or get some feedback from a
+professional open source software engineer! This wasn't an inspiring start for
+me, and it set the tone for me to establish more rewarding contributor
+experiences later in my career.
+:::
 
-_NEXT_
+
+## Some of my open source roles
+
+
+:wrench: Maintainer
+
+:sparkles: Modernizer
+
+:package: Packager
+
+:scroll: Documenter
+
+:gear: Automator
+
+:mortar_board: Educator & workshop facilitator
+
+
+:::{.notes}
+Since then, I've taken on many roles!
+
+I mentioned earlier my role maintaining and modernizing `viscm`.
+
+I'm also a maintainer of several Conda Forge package recipes (called
+feedstocks), including Quarto (used to produce this presentation), `viscm`,
+_earthaccess_, and at least three others.
+
+I also really like writing documentation and automating things! I think I've
+contributed documentation and automation to dozens of open source projects.
+
+And as you know, I love teaching.
 :::
 
 
@@ -620,10 +567,11 @@ files = earthaccess.download(
 ::::::
 
 :::{.notes}
-Before I talk more about my open source roles, I want to introduce
-_earthaccess_. It's a community-owned Python library built for researchers who
-want to get to the core of their research, and makes data more accessible for
-everyone.
+Recently, I've grown in to an open-source community builder. For context, I'd
+like to introduce _earthaccess_.
+
+It's a community-owned Python library built for researchers who want to get to
+the core of their research, and makes data more accessible for everyone.
 
 <!-- alex ignore special -->
 On the left is the official documentation for how to access NASA Earth science
@@ -631,15 +579,15 @@ data, which is behind a login system called "Earthdata Login". There are _a
 lot_ of things happening here, and the example isn't even complete.
 
 On the right, we're doing exactly three things. Logging in, searching for data
-(the code on the left side doesn't do that; it requires the user to know the
-URL of a data file), and then downloading data with authentication.
+(not supported by the code on the left; it requires the user to know the URL of
+a data file), and then downloading data with authentication.
 :::
 
 
 ## Roles in _earthaccess_
 
 
-:gear: Core contributor & sustainability strategist
+:recycle: Sustainability strategist
 
 . . .
 
@@ -651,59 +599,63 @@ URL of a data file), and then downloading data with authentication.
 
 
 :::{.notes}
-I've played many roles in open source software, from issue reporter to
-maintainer, but I'd like to focus on my roles in _earthaccess_, where I'm
-learning some new roles.
+These are the new roles I've taken on in the _earthaccess_ project.
 
-In _earthaccess_, in addition to being a core contributor, I work to improve
-on a common problem: an open-source software project which stops responding to
-community needs when funding for core contributors runs out. We've built a team
-of maintainers both related and unrelated to NASA, from private sector and
-public sector, and begun discussions about long-term independent governance.
+In addition to being a core contributor, I work to improve on a common problem:
+when funding for core contributors runs out, many open source projects stop
+responding to community needs. We've built a team of maintainers both related
+and unrelated to NASA, from private sector and public sector, and begun
+discussions about long-term independent governance.
 
 _NEXT_
 
-I also have a strong community role; I want our contributors to have the kind
-of experience I would want.
+I also have a strong community-building role; I want our contributors to have
+the kind of experience I would want.
 
-I'm a facilitator for _earthaccess_' bi-weekly hackathons. Through this event
-and by creating a welcoming environment, I've personally brought on several new
+I facilitate _earthaccess_' bi-weekly hackathons. Through this event and by
+creating a welcoming environment, I've personally brought on several new
 volunteer contributors to the project!
+
+I strive to nurture the best aspects of open source, beyond merely "being
+public", where work can be joyful, self-sustaining, and community-owned.
 
 _NEXT_
 
 Our core team submitted a proposal under NASA ROSES this year for more funding
 to continue to evolve _earthaccess_' features, community engagement model, and
-governance model.
+governance model. Link in bonus slides.
 :::
 
 
-## Other roles
+## What does open source mean to me?
 
+. . .
 
-:wrench: Maintainer
+[:magic_wand: Magic :magic_wand:]{style="font-size: 1.5em"}
 
-:sparkles: Modernizer
+. . .
 
-:package: Packager
+People who know the needed thing (sometimes me!) can appear out of nowhere
 
-:scroll: Documenter
+. . .
 
-:gear: Automator
+People can get what they want by (kindly) making a wish
 
-:graduation_cap: Educator & workshop facilitator
+. . .
 
+The best part is connecting with people
 
 :::{.notes}
-I mentioned earlier my role maintaining and modernizing `viscm`.
+I'll close with "what open source means to me." This is such a big question! I
+hope you don't mind that my answer is a bit cheesy.
 
-I'm a maintainer of several Conda Forge package recipes (called feedstocks),
-including Quarto (used to produce this presentation), `viscm`, _earthaccess_,
-and at least three others.
+_NEXT_
 
-I also really like writing documentation and automating things!
+To me, open source is magic.
 
-And as you know, I love teaching.
+_NEXT_
+
+_Read and advance_
 :::
 
 
@@ -825,4 +777,40 @@ I learned that I can leverage my tendency to overcommunicate to effectively
 communicate asynchronously. I often communicate with excessive context and
 complete, functioning examples, and you can find that in my history of GitHub
 issues and repositories!
+:::
+
+## [Overcompensate for tone](https://ben.balter.com/2014/11/06/rules-of-communicating-at-github/)
+
+Text communication lacks body language & vocal tone
+
+Emojis can help!
+
+. . .
+
+<center>
+:pinching_hand::sunglasses:
+
+:pinching_hand::dark_sunglasses::raised_eyebrow:
+</center>
+
+. . .
+
+> :star_struck: We need to talk!
+
+:::{.notes}
+<!-- alex ignore easy -->
+We all implicitly understand the value of body language and tone, and I
+think it's easy to underestimate the potential for miscommunication when those
+things aren't present. We can communicate better through text if we make our
+tone more explicit, and pictures are great for that!
+
+_NEXT_
+
+I doubt it's surprising  that I think emojis are great after what you've seen
+so far!
+
+_NEXT_
+
+Emojis make a huge difference in clarifying the tone of a message that could
+otherwise be intimidating to receive.
 :::
