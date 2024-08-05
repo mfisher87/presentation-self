@@ -1,6 +1,8 @@
 ---
 title: "Matt Fisher"
 subtitle: "💫 What does he do? Does he do things?? Let's find out! 💫"
+title-slide-attributes:
+  data-notes: "_IMPORTANT: Share link to slides:_ `https://mfisher87.github.io/presentation-self`"
 format:
   revealjs:
     theme: "white"
@@ -14,8 +16,6 @@ css: "style.css"
 # Intro
 
 :::{.notes}
-_IMPORTANT: Share link to slides!_
-
 I'd like to tell you a little about who I am and my path to my current role!
 :::
 
