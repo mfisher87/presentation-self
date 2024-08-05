@@ -1,6 +1,7 @@
 # Quarto
 *.html
 /_site/
+/site_libs/
 /.quarto/
 
 # pixi environments
