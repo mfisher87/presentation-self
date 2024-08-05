@@ -288,7 +288,7 @@ comparable to a local desktop or laptop!
 
 ## Invited post on the Jupyter Blog
 
-[_Desktop GIS software in the cloud with JupyterHub: A QGreenland workshop success story_](https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a)
+:memo: [_Desktop GIS software in the cloud with JupyterHub: A QGreenland workshop success story_](https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a)
 
 
 #### Further QGIS-JupyterHub integration
