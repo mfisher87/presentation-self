@@ -316,12 +316,6 @@ I think it's super cool that QGreenland was on to the Greenlandic news.
 
 ---
 
-![An automatic translation of an interview from the same news program](/assets/qgreenland-bag-of-money.png)
-
-:::{.notes}
-From the same news program. Something happened with the translation. I think I
-would have enjoyed receiving money in a bag!
-:::
 
 
 ## Stakeholders: Team
@@ -748,6 +742,17 @@ Any questions I can answer?
 ## Why not `nbconvert <...> --to slides <...>`?
 
 I :heart_eyes: the Git & Markdown user experience!
+
+
+## An image from Greenlandic news
+
+![An automatic translation of an interview from the same news program](/assets/qgreenland-bag-of-money.png)
+
+:::{.notes}
+From the same news program mentioned earlier in the presentation. Something
+happened with the translation. I think I would have enjoyed receiving money in
+a bag!
+:::
 
 
 ## FAIR & CARE data responsibility principles
