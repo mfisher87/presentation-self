@@ -325,14 +325,15 @@ further work to build an integrated QGIS user experience!
 <br />
 
 :::{.fragment}
-:open_hands: Inclusive design is important to me
+<!-- alex ignore nuts -->
+:scroll: A mental model for quality in documentation (and more) - [Diátaxis](https://diataxis.fr/)
 :::
 <br />
 
 :::{.fragment}
-<!-- alex ignore nuts -->
-:scroll: A mental model for quality in documentation (and more)
+:open_hands: Inclusive design is important to me
 :::
+<br />
 
 :::{.notes}
 My main takeaways from QGreenland were...
@@ -348,19 +349,19 @@ presentation.
 _NEXT_
 
 I learned through the course of our work to enrich data of varying quality with
-metadata andp rovenance how difficult and valuable this work can be. With robust
+metadata and provenance how difficult and valuable this work can be. With robust
 provenance of data operations, moving an analysis to production is drastically
 easier. I feel provenance should be a priority in any GIS analysis system.
 
 _NEXT_
 
-I learned that inclusive design is really important to me.
+<!-- alex ignore nuts -->
+I learned a new mental model for quality, called Diataxis,  that I can apply to
+documentation and general design. More on that in the bonus slides.
 
 _NEXT_
 
-<!-- alex ignore nuts -->
-And I learned a new mental model for quality that I can apply to documentation
-and general design.
+And I learned that inclusive design is really important to me.
 :::
 
 
