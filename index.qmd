@@ -115,43 +115,38 @@ gantt
   dateFormat YYYY-MM
   axisFormat %Y
 
-  Section DFS
+  Section Discover
     Software Engineer                         :done, pfx-dfs, 2008-06, 2012-06
     Senior Software Engineer                  :done, pfx-dfs-senior, 2012-06, 2016-04
 
   Section Volunteer
     Open-source software developer            :active, pfx-oss, 2013-01, 2024-08
-    Conda Forge maintainer                    :active, pfx-condaforge, 2023-04, 2024-08
 
   Section NSIDC
-    Research Software Engineer                :active, pfx-nsidc, after pfx-dfs-senior, 2024-08
-    NSIDC data ordering system (dates?)       :done, pfx-hermes, 2017-01, 2018-01
-    QGreenland                                :done, pfx-qgreenland, 2020-01, 2023-09
+    Research Software Engineer II             :active, pfx-nsidc, after pfx-dfs-senior, 2020-06
+    Research Software Engineer III            :active, pfx-nsidc-as, after pfx-nsidc, 2024-08
     NASA Openscapes Mentor                    :active, pfx-openscapes, 2023-09, 2024-08
     Carpentries Instructor Certification      :milestone, pfx-carpentries, 2023-12, 1d
-    QGreenland-Net                            :active, pfx-qgreenland-net, 2024-05, 2024-08
 
-  click pfx-condaforge href "https://conda-forge.org"
-  click pfx-nsidc href "https://nsidc.org"
-  click pfx-qgreenland href "https://qgreenland.org/"
   click pfx-openscapes href "https://nasa-openscapes.github.io/"
   click pfx-carpentries href "https://carpentries.org/instructors/"
-  click pfx-qgreenland-net href "https://qgreenland-net.github.io/"
 ```
 
 _NOTE: Some dates are best effort_
 
 
 :::{.notes}
-I started off in the finance world, and though I was a long-time open source
-user and "believer", I didn't begin contributing to the open source world until
-2013. I didn't have the most welcoming experience, but we'll get in to that
-soon!
+_Point at the "Discover" section_
 
-In 2016, I made a career change in to research software engineering, and I've
-been at NSIDC since then.
+I started off in finance at Discover Financial Services working on their
+distributed "big data" system for calculating and distributing rewards like
+miles and cash back.
 
-At NSIDC I've been in a new role of "NASA Openscapes Mentor" since 2023, which
+In 2016, I made a career change in to research software engineering because I
+wanted to do more meaningful work that was more aligned with my values, and
+I've been at NSIDC since then.
+
+At NSIDC I've been in a role of "NASA Openscapes Mentor" since 2023, which
 is a program to guide researchers in adapting to open science and cloud
 programming practices, and through that program I got certified as a
 Carpentries instructor. If you're not familiar with The Carpentries, it's a
@@ -170,7 +165,7 @@ gantt
   dateFormat YYYY-MM
   axisFormat %Y
 
-  Section DFS
+  Section Discover
     Senior Software Engineer                     :done, pfx-dfs, 2008-06, 2016-04
     The importance of readability                :milestone, pfx-readability, 2010-01, 1d
     Interesting problems aren't enough for me    :milestone, pfx-impact, 2012-06, 1d
