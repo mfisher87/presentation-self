@@ -308,26 +308,34 @@ integrated QGIS user experience!
 :::
 
 
-## :brain: Main takeaways from QGreenland
+## :brain: Main takeaways from QGreenland {.smaller}
 
 :::{.fragment}
-### :heart: I love teaching!
+:heart: I love teaching!
 
-#### :speaking_head: Inclusive language is especially important for teaching
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+:speaking_head: Inclusive language is especially important for teaching
 
 <!-- alex ignore of-course -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ~~"just"~~, ~~"simply"~~, ~~"easy"~~, ~~"of course"~~
 :::
 <br />
 
 :::{.fragment}
-### :open_hands: I really care about inclusive design
+:globe_with_meridians: Metadata **and provenance** are hard but foundational
+:::
+<br />
+
+:::{.fragment}
+:open_hands: Inclusive design is important to me
 :::
 <br />
 
 :::{.fragment}
 <!-- alex ignore nuts -->
-### :scroll: A mental model for quality in documentation and more
+:scroll: A mental model for quality in documentation (and more)
 :::
 
 :::{.notes}
@@ -338,6 +346,13 @@ I also realized the importance of inclusive language. Subtle language cues can
 make a task more intimidating or discouraging than it has to be. I use an
 automated inclusive language checker called "Alex" for this, including on this
 presentation.
+
+_NEXT_
+
+I learned through the course of our work to enrich data of varying quality with
+metadata andprovenance how difficult and valuable this work can be. With robust
+provenance of data operations, moving an analysis to production is drastically
+easier.
 
 _NEXT_
 
