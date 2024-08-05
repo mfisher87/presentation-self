@@ -692,6 +692,8 @@ governance model.
 
 :gear: Automator
 
+:graduation_cap: Educator & workshop facilitator
+
 
 :::{.notes}
 I mentioned earlier my role maintaining and modernizing `viscm`.
