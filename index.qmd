@@ -166,22 +166,21 @@ gantt
   axisFormat %Y
 
   Section Discover
-    Senior Software Engineer                     :done, pfx-dfs, 2008-06, 2016-04
-    The importance of readability                :milestone, pfx-readability, 2010-01, 1d
+    Senior Software Engineer                          :done, pfx-dfs, 2008-06, 2016-04
+    The importance of readability                     :milestone, pfx-readability, 2010-01, 1d
 
   Section Volunteer
-    Open-source software developer               :active, pfx-oss, 2013-12, 2024-08
-    The importance of welcomingness              :milestone, pfx-welcoming, 2013-12, 1d
-    Overcompensate for tone                      :milestone, pfx-tone, 2017-08, 1d
+    Open-source software developer                    :active, pfx-oss, 2013-12, 2024-08
+    The importance of welcomingness                   :milestone, pfx-welcoming, 2013-12, 1d
+    Overcompensate for tone                           :milestone, pfx-tone, 2017-08, 1d
 
 
   Section NSIDC
-    Research Software Engineer                   :active, pfx-nsidc, after pfx-dfs, 2024-08
-    FAIR & CARE data responsibility principles   :milestone, pfx-faircare, 2018-01, 1d
-    I love teaching!                             :milestone, pfx-teaching, 2019-01, 1d
-    "Deep quality" & Diátaxis                    :milestone, pfx-diataxis, 2020-06, 1d
-    Universal (inclusive) design                 :milestone, pfx-inclusive-design, 2023-04, 1d
-    Inclusive language                           :milestone, pfx-inclusive-lang, 2023-04, 1d
+    Research Software Engineer                        :active, pfx-nsidc, after pfx-dfs, 2024-08
+    FAIR & CARE data responsibility principles        :milestone, pfx-faircare, 2018-01, 1d
+    I love teaching!                                  :milestone, pfx-teaching, 2019-01, 1d
+    "Deep quality" & Diátaxis                         :milestone, pfx-diataxis, 2020-06, 1d
+    Universal (inclusive) design & inclusive language :milestone, pfx-inclusive-design, 2023-04, 1d
 
 
   click pfx-diataxis href "https://www.diataxis.fr/"
