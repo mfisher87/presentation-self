@@ -714,15 +714,15 @@ Any questions I can answer?
 ::::::
 
 
+## My profile site
+
+![<https://mfisher87.github.io/>](/assets/qr-homepage.png)
+
+
 ## :bug: Open source engagement in the course of creating this slide deck
 
 * <https://github.com/quarto-dev/quarto-cli/issues/10450>
 * <https://github.com/quarto-dev/quarto-cli/issues/10455>
-
-
-## My profile site
-
-![<https://mfisher87.github.io/>](/assets/qr-homepage.png)
 
 
 ## Why not `nbconvert <...> --to slides <...>`?
