@@ -455,10 +455,9 @@ I mentioned earlier my role maintaining and modernizing `viscm`.
 
 I'm also a maintainer of several Conda Forge package recipes (called
 feedstocks), including Quarto (used to produce this presentation), `viscm`,
-_earthaccess_, and at least three others.
+and _earthaccess_.
 
-I also really like writing documentation and automating things! I think I've
-contributed documentation and automation to dozens of open source projects.
+I also really like writing documentation and automating things!
 
 And as you know, I love teaching.
 :::
