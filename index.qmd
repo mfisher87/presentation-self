@@ -337,13 +337,15 @@ further work to build an integrated QGIS user experience!
 :::{.notes}
 My main takeaways from QGreenland were...
 
+_NEXT_
+
 I realized that I like to teach. I especially enjoy teaching researchers to
 write quality Python code and to use Git & GitHub!
 
 I also realized the importance of inclusive language. Subtle language cues can
 make a task more intimidating or discouraging than it has to be. I use an
-automated inclusive language checker called "Alex" for this, including on this
-presentation.
+automated inclusive language checker called "Alex" to help me catch language
+mistakes, including on this presentation.
 
 _NEXT_
 
