@@ -209,9 +209,9 @@ QGreenland was on the Greenlandic news, and I think that's really cool.
 ![](/assets/qgreenland-team.png){fig-align="center"}
 
 :::{.notes}
-That's me in the top-left.
+This is our team. That's me in the top-left.
 
-Trey Stafford and I wrote QGreenland's source code. However, our community is much
+Trey Stafford and I wrote QGreenland's source code. Our community is much
 larger than our team!
 :::
 
