@@ -47,7 +47,7 @@ I'd like to tell you a little about who I am and my path to my current role!
 
 . . .
 
-:fire: :mask: Surrounded by wildfires right now!
+:fire: :mask: Surrounded by wildfires right now
 
 
 :::{.notes}
@@ -58,15 +58,15 @@ _NEXT_
 <!-- alex ignore add -->
 I'm **neurodivergent** - different than "neurodiverse", meaning "we all think
 differently". "Neurodivergent" means I face unique challenges navigating a
-world that is built for people whose brains work very differently than mine.
+world that is built for people whose brains work differently than mine.
 Living with autism and ADHD, I sometimes miss implicit social cues,
 overcommunicate when I'm excited, and sometimes jokes fly over my head. I may
 also come across as nervous in this presentation - I overprepare to compensate,
 so I'm reading a lot of notes.
 
-**Systems thinker** - I'm very interested in systems, incentives, and culture.
+I'm very interested in systems, incentives, and culture.
 
-Because I'm a bit different, I'm big on inclusiveness. This year I taught a cohort of
+And because I'm a bit different, I'm big on inclusiveness. This year I taught a cohort of
 researchers about psychological safety, and that's recorded on YouTube and
 linked on this slide.
 
