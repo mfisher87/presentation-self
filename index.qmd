@@ -2,7 +2,7 @@
 title: "Matt Fisher"
 subtitle: "💫 What does he do? Does he do things?? Let's find out! 💫"
 title-slide-attributes:
-  data-notes: "Hi, I'm Matt! If you'd like to follow along, I've shared a link to these slides in chat: `https://mfisher87.github.io/presentation-self`"
+  data-notes: "Hi, I'm Matt, and I use 'he' pronouns! If you'd like to follow along, I've shared a link to these slides in chat: `https://mfisher87.github.io/presentation-self`"
 format:
   revealjs:
     theme: "white"
