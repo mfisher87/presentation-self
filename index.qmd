@@ -731,10 +731,10 @@ Any questions I can answer?
 
 ::::::{.columns}
 :::{.column width=50%}
-![<https://mfisher87.github.io/presentation-self>](/assets/qr-web.png){fig-align="center"}
+![These slides: <https://mfisher87.github.io/presentation-self>](/assets/qr-web.png){fig-align="center"}
 :::
 :::{.column width=50%}
-![<https://github.com/mfisher87/presentation-self>](/assets/qr-source.png){fig-align="center"}
+![Slides source code: <https://github.com/mfisher87/presentation-self>](/assets/qr-source.png){fig-align="center"}
 :::
 ::::::
 
