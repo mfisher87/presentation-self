@@ -414,8 +414,6 @@ integrated QGIS user experience!
 <!-- alex ignore of-course -->
 ~~"just"~~, ~~"simply"~~, ~~"easy"~~, ~~"of course"~~
 
-. . .
-
 ### :open_hands: I really care about inclusive design
 
 ### :hole: ["Deep quality"](https://diataxis.fr/quality/) & [Diátaxis](https://diataxis.fr/)
