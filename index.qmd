@@ -161,7 +161,7 @@ project.
 # :greenland: A project: [QGreenland](https://qgreenland.org)
 
 :::{.notes}
-QGreenland was one of the most personally transformative projects in my career!
+QGreenland.
 :::
 
 ---
@@ -209,8 +209,7 @@ QGreenland was on the Greenlandic news, and I think that's really cool.
 :::{.notes}
 This is our team. That's me in the top-left.
 
-Trey Stafford and I wrote QGreenland's source code. Our community is much
-larger than our team!
+Trey Stafford and I wrote QGreenland's source code.
 :::
 
 
@@ -298,9 +297,10 @@ comparable to a local desktop or laptop!
 :octopus: [Enable users to open a dataset in JupyterHub QGIS from a special URL](https://github.com/NASA-IMPACT/veda-jupyterhub/issues/2)
 
 :::{.notes}
-We were invited by Jupyter team member Yuvi Panda to write a guest post on the
-Jupyter Blog, which was credited with inspiring further work to build an
-integrated QGIS user experience!
+Following up on our workshop's success, we were invited by Jupyter team member
+Yuvi Panda to write a guest post on the Jupyter Blog about our
+QGIS-in-JupyterHub advancements. The blog post was credited with inspiring
+further work to build an integrated QGIS user experience!
 :::
 
 
