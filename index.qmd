@@ -142,13 +142,15 @@ I started off in finance at Discover Financial Services working on their
 distributed "big data" system for calculating and distributing rewards like
 miles and cash back.
 
+I started my open source journey in 2013. More on that soon!
+
 In 2016, I made a career change in to research software engineering because I
-wanted to do more meaningful work that was more aligned with my professional
-values of openness, inclusivity, accessibility, and quality, and I've been at NSIDC
-since then.
+wanted to do wor that was more meaningful and more aligned with my values of
+openness, inclusivity, accessibility, and quality, and I've been at NSIDC since
+then.
 
 I've been in a new role of "NASA Openscapes Mentor" since 2023. Openscapes is a
-program to guide researchers in adapting to open science and cloud programming
+program to guide researchers in adopting open science and cloud programming
 practices, and through that program I got certified as a Carpentries
 instructor. If you're not familiar with _The Carpentries_, it's a program for
 teaching researchers the foundational coding and data science skills they need.
