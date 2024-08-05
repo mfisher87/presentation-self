@@ -313,7 +313,8 @@ I think it's super cool that QGreenland was on to the Greenlandic news.
 :::{.notes}
 That's me in the top-left with my wonderful unofficial therapy dog, Ricky.
 
-Trey and I wrote QGreenland's source code.
+Trey and I wrote QGreenland's source code. However, our community is much
+larger than our team!
 :::
 
 
@@ -322,10 +323,8 @@ Trey and I wrote QGreenland's source code.
 ![](/assets/qgreenland-editorial-board.png){fig-align="center" .r-stretch}
 
 :::{.notes}
-Our domain experts. They know their data; some EB members personally authored
-datasets present in QGreenland. They help us to ensure the data we are
-representing is accurate, and help us to curate datasets that are useful to our
-audiences, and useful together.
+Our editorial board are our domain experts who helped us curate, validate, and
+visualize our data.
 :::
 
 
