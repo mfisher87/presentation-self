@@ -665,9 +665,11 @@ Experiencing and being a part of this magic is what drives me.
 # :heart: Thank you
 
 :::{.notes}
-I hope I've answered all the questions from the prompt!
+Thank you! There are bonus slides after this slide if you'd like to explore them.
 
-Any questions I can answer?
+What questions do you have?
+
+_Advance to QR codes slide_
 :::
 
 
