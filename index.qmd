@@ -153,7 +153,7 @@ In 2016, I made a career change in to research software engineering, and I've
 been at NSIDC since then.
 
 At NSIDC I've been in a new role of "NASA Openscapes Mentor" since 2023, which
-is a program to mentor researchers in adapting to open science and cloud
+is a program to guide researchers in adapting to open science and cloud
 programming practices, and through that program I got certified as a
 Carpentries instructor. If you're not familiar with The Carpentries, it's a
 program for teaching researchers the foundational coding and data science
@@ -429,7 +429,7 @@ advancements in JupyterHub GIS functionality.
 :::
 
 
-## Main takeaways
+## Main takeaways from QGreenland
 
 ### :heart: I love teaching!
 
