@@ -382,8 +382,9 @@ international attendees.
 We designed our workshop so participants would work in the _CryoCloud_
 JupyterHub (seen in the URL bar in the screenshot).
 
-To make this work, I led an effort to advance the QGIS user experience in the
-cloud to make it comparable to a local desktop or laptop!
+To make this work, I led an effort, standing on the shoulders of the Jupyter
+community, to advance the QGIS user experience in the cloud to make it
+comparable to a local desktop or laptop!
 :::
 
 
