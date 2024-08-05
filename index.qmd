@@ -370,12 +370,14 @@ And I learned that inclusive design is really important to me.
 ![A [sketchplanations](https://sketchplanations.com/the-curb-cut-effect) illustration showing that by designing for disability, for example with "curb-cuts", we make everyone's life better.](https://images.prismic.io/sketchplanations/f103d71e-0ecb-4e78-bc02-e6dce18d0ed8_SP+718+-+The+curb-cut+effect.png?auto=compress%2Cformat&fit=max&w=1920&q=50){.r-stretch}
 
 :::{.notes}
+I only recently first saw this illustration about inclusive design, but it's
+taken up permanent residency in my brain and helps me make more inclusive
+decisions.
+
 <!-- alex ignore americans -->
-I only recently first saw this illustration, but it's taken up permanent
-residency in my brain and helps me make more inclusive design decisions. Many
-take curb-cuts for granted in the U.S. They're ubiquitous because they're
-required by the Americans with Disabilities Act, and we all benefit from them,
-as highlighted in orange.
+Many take curb-cuts for granted in the U.S. They're ubiquitous
+because they're required by the Americans with Disabilities Act, and we all
+benefit from them, as highlighted in orange.
 
 In our workshop we taught our learners about inclusive design using colormaps.
 :::
