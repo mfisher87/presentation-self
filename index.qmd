@@ -168,7 +168,6 @@ gantt
   Section Discover
     Senior Software Engineer                     :done, pfx-dfs, 2008-06, 2016-04
     The importance of readability                :milestone, pfx-readability, 2010-01, 1d
-    Interesting problems aren't enough for me    :milestone, pfx-impact, 2012-06, 1d
 
   Section Volunteer
     Open-source software developer               :active, pfx-oss, 2013-12, 2024-08
@@ -200,11 +199,6 @@ In my very early career, I worked with a technical lead who dogmatically used
 single-letter variable names and a lot of jargon, which created artificial
 barriers for learning and getting work done. From this, I learned that
 _readability is paramount_. Code is read many times more than it is written.
-
-At first, I was satisfied working on interesting "big data" and distributed
-systems problems in the finance world. Over time, I realized that _interesting
-problems aren't enough for me_ - I wanted to do work that helped people in some
-way.
 
 I got interested in contributing to open source projects at this point and
 learned the importance of welcomingness.
