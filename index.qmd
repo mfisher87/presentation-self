@@ -9,8 +9,8 @@ format:
     footer: "[Home](/) | [Source](https://github.com/mfisher87/presentation-self)"
     auto-stretch: false
     slide-number: true
-    from: "markdown+emoji"
 css: "style.css"
+
 ---
 
 # Intro

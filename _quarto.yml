@@ -9,3 +9,10 @@ website:
   title: "Presentation: Myself"
   repo-url: &repo-url "https://github.com/mfisher87/presentation-self"
   repo-actions: ["edit", "issue"]
+
+
+format:
+  html:
+    from: "markdown+emoji"
+  revealjs:
+    from: "markdown+emoji"
