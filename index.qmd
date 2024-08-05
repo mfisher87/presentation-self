@@ -569,8 +569,8 @@ files = earthaccess.download(
 ::::::
 
 :::{.notes}
-Recently, I've grown in to an open-source community builder. For context, I'd
-like to introduce _earthaccess_.
+Most recently, I've grown in to an open-source community builder on an
+influential community-owned project called _earthaccess_.
 
 It's a community-owned Python library built for researchers who want to get to
 the core of their research, and makes data more accessible for everyone.
@@ -658,6 +658,8 @@ To me, open source is magic.
 _NEXT_
 
 _Read and advance_
+
+Experiencing and being a part of this magic is what drives me.
 :::
 
 
