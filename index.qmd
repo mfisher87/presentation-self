@@ -413,36 +413,6 @@ modernized `viscm`.
 :::
 
 
-<!-- alex ignore nuts -->
-## A mental model for quality
-
-* Functional quality: _"Is it correct?" "Is it complete?"_
-* ["Deep quality"](https://diataxis.fr/quality/): _"Does it meet human needs?"
-  "Does it feel good?" "How much energy does it take to use?"_
-
-. . .
-
-A framework for documentation: [Diátaxis](https://diataxis.fr/)
-
-:::{.notes}
-<!-- alex ignore nuts -->
-In my new mental model for quality, we categorize functional quality and deep
-quality separately.
-
-Functional quality includes things like "is it correct?" and "is it complete?".
-It's measurable and objective.
-
-"Deep quality" refers to subjective experience: "does it meet human needs?",
-"does it feel good?", and "how much of my energy does it take to use?"
-
-_NEXT_
-
-<!-- alex ignore nuts -->
-Diataxis provided me with a mental framework for me to start writing
-software and documentation with "deep quality" in mind.
-:::
-
-
 # Open source
 
 :::{.notes}
@@ -847,4 +817,34 @@ _NEXT_
 
 Emojis make a huge difference in clarifying the tone of a message that could
 otherwise be intimidating to receive.
+:::
+
+
+<!-- alex ignore nuts -->
+## A mental model for quality
+
+* Functional quality: _"Is it correct?" "Is it complete?"_
+* ["Deep quality"](https://diataxis.fr/quality/): _"Does it meet human needs?"
+  "Does it feel good?" "How much energy does it take to use?"_
+
+. . .
+
+A framework for documentation: [Diátaxis](https://diataxis.fr/)
+
+:::{.notes}
+<!-- alex ignore nuts -->
+In my new mental model for quality, we categorize functional quality and deep
+quality separately.
+
+Functional quality includes things like "is it correct?" and "is it complete?".
+It's measurable and objective.
+
+"Deep quality" refers to subjective experience: "does it meet human needs?",
+"does it feel good?", and "how much of my energy does it take to use?"
+
+_NEXT_
+
+<!-- alex ignore nuts -->
+Diataxis provided me with a mental framework for me to start writing
+software and documentation with "deep quality" in mind.
 :::
