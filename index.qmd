@@ -172,23 +172,23 @@ gantt
   axisFormat %Y
 
   Section DFS
-    Senior Software Engineer                  :done, pfx-dfs, 2008-06, 2016-04
-    The importance of readability             :milestone, pfx-readability, 2010-01, 1d
-    Interesting problems aren't enough for me :milestone, pfx-impact, 2012-06, 1d
+    Senior Software Engineer                     :done, pfx-dfs, 2008-06, 2016-04
+    The importance of readability                :milestone, pfx-readability, 2010-01, 1d
+    Interesting problems aren't enough for me    :milestone, pfx-impact, 2012-06, 1d
 
   Section Volunteer
-    Open-source software developer            :active, pfx-oss, 2013-12, 2024-08
-    The importance of welcomingness           :milestone, pfx-welcoming, 2013-12, 1d
-    Overcompensate for tone                   :milestone, pfx-tone, 2017-08, 1d
+    Open-source software developer               :active, pfx-oss, 2013-12, 2024-08
+    The importance of welcomingness              :milestone, pfx-welcoming, 2013-12, 1d
+    Overcompensate for tone                      :milestone, pfx-tone, 2017-08, 1d
 
 
   Section NSIDC
-    Research Software Engineer                :active, pfx-nsidc, after pfx-dfs, 2024-08
-    FAIR & CARE principles                    :milestone, pfx-faircare, 2018-01, 1d
-    I love teaching!                          :milestone, pfx-teaching, 2019-01, 1d
-    "Deep quality" & Diátaxis                 :milestone, pfx-diataxis, 2020-06, 1d
-    Universal (inclusive) design              :milestone, pfx-inclusive-design, 2023-04, 1d
-    Inclusive language                        :milestone, pfx-inclusive-lang, 2023-04, 1d
+    Research Software Engineer                   :active, pfx-nsidc, after pfx-dfs, 2024-08
+    FAIR & CARE data responsibility principles   :milestone, pfx-faircare, 2018-01, 1d
+    I love teaching!                             :milestone, pfx-teaching, 2019-01, 1d
+    "Deep quality" & Diátaxis                    :milestone, pfx-diataxis, 2020-06, 1d
+    Universal (inclusive) design                 :milestone, pfx-inclusive-design, 2023-04, 1d
+    Inclusive language                           :milestone, pfx-inclusive-lang, 2023-04, 1d
 
 
   click pfx-diataxis href "https://www.diataxis.fr/"
@@ -750,7 +750,7 @@ Any questions I can answer?
 I :heart_eyes: the Git & Markdown user experience!
 
 
-## FAIR & CARE
+## FAIR & CARE data responsibility principles
 
 ![FAIR & CARE Principles logo](https://images.squarespace-cdn.com/content/v1/5d3799de845604000199cd24/1567592451970-2R8XFL670QNMAGDRV7ED/Be+FAIR+and+CARE.png?format=2500w)
 
