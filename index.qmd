@@ -254,7 +254,7 @@ the context of a project.
 :::
 
 
-# A project: QGreeenland
+# :greenland: A project: [QGreenland](https://qgreenland.org)
 
 :::{.notes}
 QGreenland!
@@ -262,13 +262,14 @@ QGreenland!
 
 ---
 
-![](https://qgreenland.org/sites/default/files/2023-08/QGreenland_updates_2023.jpg){fig-align="center" .r-stretch}
+![<https://qgreenland.org>](https://qgreenland.org/sites/default/files/2023-08/QGreenland_updates_2023.jpg){fig-align="center" .r-stretch}
 
 :::{.notes}
-QGreenland is an offline-first Greenland-focused data environment for QGIS.
+QGreenland is an open-source, offline-first, Greenland-focused data environment
+for QGIS.
 
-The provided data ranges from ice sheet thickness to protected wildlife areas
-to undersea features. It's built to work offline to support field work and
+Our data ranges from ice sheet thickness to protected wildlife areas to
+undersea features. It's built to work offline to support field work and
 accessibility to data explorers.
 
 It's inspired by Quantarctica, a similar project focused on Antarctica. The
@@ -277,8 +278,8 @@ transform the data and build the QGIS project instead of doing those steps by
 hand.
 
 We're currently working on a follow-up grant (see bonus slides) to make more
-data viewable online and move to a Conda Forge inspired model for data
-transformation.
+data viewable online and move to a Conda Forge inspired community-driven model
+for data transformation.
 :::
 
 
@@ -288,9 +289,8 @@ transformation.
 
 :::{.notes}
 This piece of user feedback is exactly the kind of impact I wanted to make when
-I left the finance industry: _Read the quote_.
-
-I'm going to start moving fast through some picture slides now!
+I left the finance industry: our work is helping to improve equitable access to
+data!
 :::
 
 ---
@@ -299,11 +299,8 @@ I'm going to start moving fast through some picture slides now!
 
 
 :::{.notes}
-I think it's super cool that QGreenland was on to the Greenlandic news.
+I think it's super cool that QGreenland was on the Greenlandic news.
 :::
-
----
-
 
 
 ## Stakeholders: Team
@@ -313,7 +310,7 @@ I think it's super cool that QGreenland was on to the Greenlandic news.
 :::{.notes}
 That's me in the top-left with my wonderful unofficial therapy dog, Ricky.
 
-Trey and I wrote QGreenland's source code. However, our community is much
+Trey Stafford and I wrote QGreenland's source code. However, our community is much
 larger than our team!
 :::
 
@@ -333,10 +330,13 @@ visualize our data.
 !["Climate Elvis" in Greenland](/assets/climate-elvis.jpg)
 
 :::{.notes}
-<!--alex ignore her-him -->
 Our community includes people living in Greenland and members of the public in
-general, educators, and earth science researchers. Pictured here is a Jet
-Propulsion Lab researcher who goes by "Climate Elvis", please Google him!
+general, educators, and earth science researchers.
+
+<!--alex ignore her-him -->
+Pictured here is a Jet Propulsion Lab researcher who goes by "Climate Elvis"
+seen by our team on a trip to Greenland - I hope you'll take a minute to Google
+him later!
 :::
 
 
@@ -345,48 +345,66 @@ Propulsion Lab researcher who goes by "Climate Elvis", please Google him!
 ![Learners at a QGreenland workshop](/assets/qgreenland-workshop.jpg)
 
 :::{.notes}
-Our learners included students from high school and up, professional educators,
-and researchers.
-
-We held workshops for our learners and trained educators to create a pathway
-into our community. A researcher workshop we held in 2023 was the first
-workshop which I had a leadership role in developing, alongside my amazing
-colleague Trey.
+Learners are also a critical part of our community.
 :::
 
 
-## [2023 QGreenland Researcher Workshop](https://qgreenland-workshop-2023-researcher.github.io/)
+# :greenland: [2023 QGreenland Researcher Workshop](https://qgreenland-workshop-2023-researcher.github.io/)
 
-### QGIS in cloud JupyterHub
+:::{.notes}
+A workshop for researchers we ran in 2023 was my first experience having a
+leadership role in developing a workshop, alongside my amazing colleague Trey.
 
-With a user experience similar to a local desktop or laptop!
+This was a transformative experience for me! I learned that I have a passion
+for teaching.
+:::
 
 
-### Invited post on the Jupyter Blog
+## [Open-source materials](https://github.com/qgreenland-workshop-2023-researcher/qgreenland-workshop-2023-researcher.github.io) & [participation](https://github.com/orgs/qgreenland-workshop-2023-researcher/repositories)
+
+![Open participation by workshop attendees](/assets/qgreenland-workshop-discussions.png)
+
+:::{.notes}
+Openness was a core value, so all of our materials were developed openly on
+GitHub, and all workshop participation also occurred publicly on GitHub.
+:::
+
+
+## QGIS in cloud JupyterHub
+
+![_QGIS_ in _JupyterHub_ with a user experience similar to a local desktop or laptop!](/assets/qgis-jupyterhub.webp){.r-stretch}
+
+:::{.notes}
+Accessibility was a core value, so we provided our participants with a stipend
+and worked hard to provide accessible and robust compute resources for our 25
+international attendees.
+
+We designed our workshop so participants would work in the _CryoCloud_
+JupyterHub (seen in the URL bar in the screenshot).
+
+To make this work, I led an effort to advance the QGIS user experience in the
+cloud to make it comparable to a local desktop or laptop!
+:::
+
+
+## Invited post on the Jupyter Blog
 
 [_Desktop GIS software in the cloud with JupyterHub: A QGreenland workshop success story_](https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a)
 
 
-### Further QGIS integration
+#### Further QGIS-JupyterHub integration
 
 <!-- alex ignore special -->
-[Enable users to open a dataset in JupyterHub QGIS from a special URL](https://github.com/NASA-IMPACT/veda-jupyterhub/issues/2)
-
+:octopus: [Enable users to open a dataset in JupyterHub QGIS from a special URL](https://github.com/NASA-IMPACT/veda-jupyterhub/issues/2)
 
 :::{.notes}
-This was a transformative experience for me. My work on the CryoCloud
-JupyterHub, operated by 2i2c, brought a high quality QGIS experience to our
-virtual classroom of 25 international students.
-
-We were invited to write a guest post on the Jupyter Blog, which was credited
-with inspiring further work to build an integrated QGIS user experience.
-
-I'm very proud of this work, as it's been credited for inspiring additional
-advancements in JupyterHub GIS functionality.
+We were invited by Jupyter team member Yuvi Panda to write a guest post on the
+Jupyter Blog, which was credited with inspiring further work to build an
+integrated QGIS user experience!
 :::
 
 
-## Main takeaways from QGreenland
+## :brain: Main takeaways from QGreenland
 
 ### :heart: I love teaching!
 
@@ -395,18 +413,22 @@ advancements in JupyterHub GIS functionality.
 <!-- alex ignore of-course -->
 ~~"just"~~, ~~"simply"~~, ~~"easy"~~, ~~"of course"~~
 
+. . .
+
 ### :open_hands: I really care about inclusive design
 
 ### :hole: ["Deep quality"](https://diataxis.fr/quality/) & [Diátaxis](https://diataxis.fr/)
 
 :::{.notes}
-I realized that I like to teach. I especially enjoy teaching researchers to use
-Git & GitHub!
+I realized that I like to teach. I especially enjoy teaching researchers to
+write quality Python code and to use Git & GitHub!
 
 I also realized the importance of inclusive language. Subtle language cues can
 make a task more intimidating or discouraging than it has to be. I use an
 automated inclusive language checker called "Alex" for this, including on this
 presentation.
+
+_NEXT_
 
 The remaining two have their own slides.
 :::
@@ -660,7 +682,9 @@ governance model.
 ## Other roles
 
 
-:sparkles: Maintainer & modernizer
+:wrench: Maintainer
+
+:sparkles: Modernizer
 
 :package: Packager
 
@@ -677,6 +701,8 @@ including Quarto (used to produce this presentation), `viscm`, _earthaccess_,
 and at least three others.
 
 I also really like writing documentation and automating things!
+
+And as you know, I love teaching.
 :::
 
 
