@@ -700,7 +700,7 @@ _Advance to QR codes slide_
 
 ## Why not `nbconvert <...> --to slides <...>`?
 
-I :heart_eyes: the Git & Markdown user experience!
+I love Jupyter, but I :heart_eyes: the Git & Markdown user experience!
 
 
 # :greenland: Photos of the QGreenland team's trip to Greenland
