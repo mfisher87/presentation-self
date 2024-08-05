@@ -337,6 +337,8 @@ integrated QGIS user experience!
 :::
 
 :::{.notes}
+My main takeaways from QGreenland were...
+
 I realized that I like to teach. I especially enjoy teaching researchers to
 write quality Python code and to use Git & GitHub!
 
@@ -348,9 +350,9 @@ presentation.
 _NEXT_
 
 I learned through the course of our work to enrich data of varying quality with
-metadata andprovenance how difficult and valuable this work can be. With robust
+metadata andp rovenance how difficult and valuable this work can be. With robust
 provenance of data operations, moving an analysis to production is drastically
-easier.
+easier. I feel provenance should be a priority in any GIS analysis system.
 
 _NEXT_
 
@@ -387,24 +389,26 @@ In our workshop we taught our learners about inclusive design using colormaps.
 
 :::{.notes}
 There's a history in the sciences of using a notoriously inaccessible colormap
-called "rainbow". In 2017, "viridis" superseded it at Matplotlib's default
+called "rainbow". In 2017, "viridis" superseded it as Matplotlib's default
 thanks to work by Berkeley faculty Stéfan van der Walt and Nathaniel Smith.
 
 _CONTROL-CLICK the "jet" visualization_
 
 <!-- alex ignore color -->
-We can see how the top colormap is especially inaccessible to people with color
-vision deficiency. Even for folks with full color vision, the gradient is
-inconsistent and introduces false features and hides true features.
+We can see how the top colormap is inaccessible even for folks with full color
+vision. The gradient is inconsistent and introduces false features and hides
+true features. But it's even worse for people with color vision deficiency, as
+shown in the group of 4 bars at the bottom.
 
 _CONTROL-CLICK the "viridis" visualization_
 
 "viridis" more accurately represents data for all because it was designed for
-all. That's inclusive design!
+all. **That's inclusive design!**
 
 Thanks to Stéfan's welcomingness, I'm currently a maintainer of the software,
-called "viscm", that was used to develop this new generation of accessible
-colormaps. In 2023, I successfully revitalized and modernized it.
+called `viscm`, that was used to develop this new generation of accessible
+colormaps and these visualizations. In 2023, I successfully revitalized and
+modernized `viscm`.
 :::
 
 
@@ -420,6 +424,10 @@ colormaps. In 2023, I successfully revitalized and modernized it.
 A framework for documentation: [Diátaxis](https://diataxis.fr/)
 
 :::{.notes}
+<!-- alex ignore nuts -->
+In my new mental model for quality, we categorize functional quality and deep
+quality separately.
+
 Functional quality includes things like "is it correct?" and "is it complete?".
 It's measurable and objective.
 
@@ -582,7 +590,7 @@ files = earthaccess.download(
 ::::::
 
 :::{.notes}
-Most recently, I've grown in to an open-source community builder on an
+Most recently, I've grown in to an open-source **community builder** on an
 influential community-owned project called _earthaccess_.
 
 It's a community-owned Python library built for researchers who want to get to
@@ -600,8 +608,6 @@ a data file), and then downloading data with authentication.
 
 
 ## Roles in _earthaccess_
-
-. . .
 
 <br/>
 
@@ -621,13 +627,11 @@ a data file), and then downloading data with authentication.
 
 
 :::{.notes}
-These are the new roles I've taken on in the _earthaccess_ project.
-
-In addition to being a core contributor, I work to improve on a common problem:
-when funding for core contributors runs out, many open source projects stop
-responding to community needs. We've built a team of maintainers both related
-and unrelated to NASA, from private sector and public sector, and begun
-discussions about long-term independent governance.
+In addition to being a core contributor on _earthaccess_, I work to improve on
+a common problem: when funding for core contributors runs out, many open source
+projects stop responding to community needs. We've built a team of maintainers
+both related and unrelated to NASA, from private sector and public sector, and
+begun discussions about long-term independent governance.
 
 _NEXT_
 
@@ -644,8 +648,7 @@ public", where work can be joyful, self-sustaining, and community-owned.
 _NEXT_
 
 Our core team submitted a proposal under NASA ROSES this year for more funding
-to continue to evolve _earthaccess_' features, community engagement model, and
-governance model. Link in bonus slides.
+to continue to evolve _earthaccess_.
 :::
 
 
@@ -679,7 +682,7 @@ hope you don't mind that my answer is a bit cheesy.
 
 _NEXT_
 
-To me, open source is magic.
+To me, open source is _magic_.
 
 _NEXT_
 
