@@ -6,6 +6,6 @@ project:
 
 
 website:
-  title: "Presentation: Self"
+  title: "Presentation: Myself"
   repo-url: &repo-url "https://github.com/mfisher87/presentation-self"
   repo-actions: ["edit", "issue"]
