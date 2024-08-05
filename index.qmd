@@ -603,12 +603,19 @@ a data file), and then downloading data with authentication.
 
 ## Roles in _earthaccess_
 
+. . .
+
+<br/>
 
 :recycle: Sustainability strategist
+
+<br/>
 
 . . .
 
 :hugs: Welcomer, thanker, community manager, & [hackathon facilitator](https://earthaccess.readthedocs.io/en/latest/contributing/our-meet-ups/)
+
+<br/>
 
 . . .
 
@@ -648,15 +655,21 @@ governance model. Link in bonus slides.
 
 . . .
 
-[:magic_wand: Magic :magic_wand:]{style="font-size: 1.5em"}
+<center>
+[:magic_wand: Magic :sparkles:]{style="font-size: 1.5em"}
+</center>
 
 . . .
 
 People who know the needed thing (sometimes me!) can appear out of nowhere
 
+<br/>
+
 . . .
 
 People can get what they want by (kindly) making a wish
+
+<br/>
 
 . . .
 
