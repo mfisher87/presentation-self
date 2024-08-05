@@ -176,9 +176,8 @@ Our data ranges from ice sheet thickness to protected wildlife areas to
 undersea features. It's built to work offline to support field work and
 accessibility to data explorers.
 
-We're currently working on a follow-up grant (see bonus slides) to make more
-data browsable online and adopt a Conda Forge inspired community-driven model
-for data transformation.
+We're currently working on a follow-up grant to build a more community-driven
+data transformation model - please see bonus slides for more.
 :::
 
 
@@ -232,9 +231,9 @@ Our community includes people living in Greenland and members of the public
 in general, educators, and earth science researchers.
 
 <!--alex ignore her-him -->
-Pictured here is a Jet Propulsion Lab researcher who goes by "Climate Elvis"
-seen by our team on a trip to Greenland - I hope you'll take a minute to Google
-him later!
+Pictured here is a Jet Propulsion Lab researcher who goes by "Climate Elvis".
+Our team saw this performance on a trip to Greenland. I hope you'll take a
+minute to Google him later!
 :::
 
 
@@ -253,8 +252,8 @@ Learners are also a critical part of our community.
 A workshop for researchers we ran in 2023 was my first experience having a
 leadership role in developing a workshop, alongside my amazing colleague Trey.
 
-This was a transformative experience for me! I learned that I have a passion
-for teaching.
+This was a transformative experience for me in which I learned that I have a
+passion for teaching.
 :::
 
 
@@ -361,7 +360,8 @@ documentation and general design. More on that in the bonus slides.
 
 _NEXT_
 
-And I learned that inclusive design is really important to me.
+And I learned that inclusive design is really important to me. I want to focus
+on that for a minute.
 :::
 
 
@@ -390,7 +390,7 @@ In our workshop we taught our learners about inclusive design using colormaps.
 
 :::{.notes}
 There's a history in the sciences of using a notoriously inaccessible colormap
-called "rainbow". In 2017, "viridis" superseded it as Matplotlib's default
+called "rainbow", which was superseded by "viridis" as Matplotlib's default In 2017,
 thanks to work by Berkeley faculty Stéfan van der Walt and Nathaniel Smith.
 
 _CONTROL-CLICK the "jet" visualization_
@@ -418,6 +418,7 @@ modernized `viscm`.
 :::{.notes}
 Now I'll talk about my journey as an open source software developer.
 :::
+
 
 ## My first Pull Request (PR)
 
