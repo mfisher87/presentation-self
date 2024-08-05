@@ -313,31 +313,7 @@ I think it's super cool that QGreenland was on to the Greenlandic news.
 :::{.notes}
 That's me in the top-left with my wonderful unofficial therapy dog, Ricky.
 
-Trey and I wrote QGreenland's source code with Twila's leadership. Alyse and
-Casey produced amazing educational materials and advised Trey and myself in
-leading our first workshop.
-:::
-
-
----
-
-![QGreenland team in Greenland](/assets/qgreenland-team-in-greenland.jpg){.r-stretch}
-
-
-:::{.notes}
-I didn't make it on this trip, unfortunately, but here's our team having fun in
-Greenland!
-:::
-
-
----
-
-![Art found in Greenland](/assets/greenland-art.jpg){.r-stretch}
-
-:::{.notes}
-This is some fun art the team found in Greenland.
-
-_Wait 5 seconds_
+Trey and I wrote QGreenland's source code.
 :::
 
 
@@ -713,6 +689,7 @@ I hope I've answered all the questions from the prompt!
 Any questions I can answer?
 :::
 
+
 # :tada: Bonus slides
 
 ## QR codes
@@ -727,9 +704,48 @@ Any questions I can answer?
 ::::::
 
 
+## :bug: Open source engagement in the course of creating this slide deck
+
+* <https://github.com/quarto-dev/quarto-cli/issues/10450>
+* <https://github.com/quarto-dev/quarto-cli/issues/10455>
+
+
+## My profile site
+
+![<https://mfisher87.github.io/>](/assets/qr-homepage.png)
+
+
 ## Why not `nbconvert <...> --to slides <...>`?
 
 I :heart_eyes: the Git & Markdown user experience!
+
+
+# :greenland: Photos of the QGreenland team's trip to Greenland
+
+:::{.notes}
+I was unfortunately not able to join this trip. Thanks, COVID!
+:::
+
+---
+
+![QGreenland team in Greenland](/assets/qgreenland-team-in-greenland.jpg){.r-stretch}
+
+
+:::{.notes}
+I didn't make it on this trip, unfortunately, but here's our team having fun in
+Greenland!
+:::
+
+
+---
+
+![Art found in Greenland](/assets/greenland-art.jpg){.r-stretch}
+
+:::{.notes}
+This is some fun art the team found in Greenland.
+
+_Wait 5 seconds_
+:::
 
 
 ## An image from Greenlandic news
@@ -740,20 +756,6 @@ I :heart_eyes: the Git & Markdown user experience!
 From the same news program mentioned earlier in the presentation. Something
 happened with the translation. I think I would have enjoyed receiving money in
 a bag!
-:::
-
-
-## FAIR & CARE data responsibility principles
-
-![FAIR & CARE Principles logo](https://images.squarespace-cdn.com/content/v1/5d3799de845604000199cd24/1567592451970-2R8XFL670QNMAGDRV7ED/Be+FAIR+and+CARE.png?format=2500w)
-
-[A module I taught on FAIR & CARE in 2023](https://qgreenland-workshop-2023-researcher.github.io/content/materials.html#review-open-science-and-data-principles)
-
-:::{.notes}
-CARE principles can sometimes conflict with openness, e.g. should the mating
-locations for poached species be made public?
-
-_NOTE: I don't think I can fit this._
 :::
 
 
@@ -770,6 +772,22 @@ are executed in the cloud, taking inspiration from Conda Forge.
 :::
 
 
+# More lessons learned
+
+## FAIR & CARE data responsibility principles
+
+![FAIR & CARE Principles logo](https://images.squarespace-cdn.com/content/v1/5d3799de845604000199cd24/1567592451970-2R8XFL670QNMAGDRV7ED/Be+FAIR+and+CARE.png?format=2500w)
+
+[A module I taught on FAIR & CARE in 2023](https://qgreenland-workshop-2023-researcher.github.io/content/materials.html#review-open-science-and-data-principles)
+
+:::{.notes}
+CARE principles can sometimes conflict with openness, e.g. should the mating
+locations for poached species be made public?
+
+_NOTE: I don't think I can fit this._
+:::
+
+
 ## Overcommunicate
 
 Write for people who have the least possible context
@@ -782,14 +800,3 @@ communicate asynchronously. I often communicate with excessive context and
 complete, functioning examples, and you can find that in my history of GitHub
 issues and repositories!
 :::
-
-
-## My profile site
-
-![<https://mfisher87.github.io/>](/assets/qr-homepage.png)
-
-
-## :bug: Bugs reported in the course of creating this slide deck
-
-* <https://github.com/quarto-dev/quarto-cli/issues/10450>
-* <https://github.com/quarto-dev/quarto-cli/issues/10455>
